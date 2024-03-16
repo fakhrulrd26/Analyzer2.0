@@ -1,0 +1,399 @@
+{
+    "f4v": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0000001C"
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "hevc": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0000000140"
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "m2ts": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0D9EE202"
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "mjepg": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "FFD8FF"
+            }
+        ],
+        "mime": "image/jpeg"
+    },
+    "wtv": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "B7D800"
+            }
+        ],
+        "mime": "video/mpeg"
+    },
+    "aac": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "FFF150"
+            }
+        ],
+        "mime": "audio/x-hx-aac-adts"
+    },
+    "ac3": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0B77"
+            }
+        ],
+        "mime": "audio/vnd.dolby.dd-raw"
+    },
+    "avr": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "3242"
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "caf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "6361"
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "cvs": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "589A99"
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "cvsd": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "585A9A"
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "cvu": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "A8AAAA"
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "dts": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "7FFE80"
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "dvms": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "2F686F6D" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "fap": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "666170" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "fssd": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "80" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "gsrt": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "000080" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "hcom": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "000141" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "ima": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0004" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "ircam": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "64A3" 
+            }
+        ],
+        "mime": "application/octet-stream"
+
+    },
+    "nist": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4E4953" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "paf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "2070" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "pvf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "5056" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "smp": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "534F" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "sndr": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0004" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "sndt": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "534F" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "tta": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "5454" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "txw": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4C4D" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "voc": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4372" 
+            }
+        ],
+        "mime": "audio/x-unknown"
+    },
+    "vox": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0808" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "w64": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "7269" 
+            }
+        ],
+        "mime": "audio/x-w64"
+    },
+    "wv": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "7776" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "wve": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "414C" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "dds": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4444" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "erf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "00D7" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "exr": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "762F" 
+            }
+        ],
+        "mime": "image/x-exr"
+    },
+    "mng": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "8A4D" 
+            }
+        ],
+        "mime": "video/x-mng"
+    },
+    "orf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "494952" 
+            }
+        ],
+        "mime": "image/x-olympus-orf"
+    },
+    "pam": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "5037" 
+            }
+        ],
+        "mime": "image/x-portable-pixmap"
+    },
+    "pbm": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "5034" 
+            }
+        ],
+        "mime": "image/x-portable-bitmap"
+    },
+    "pcd": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "FFFF" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "pes": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "2350" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "pfm": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "5046" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "picon": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "2F2A" 
+            }
+        ],
+        "mime": "image/x-xpmi"
+    }
+}

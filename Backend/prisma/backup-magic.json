@@ -1,0 +1,1660 @@
+{
+    "123": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "00001A00051004"
+            }
+        ],
+        "mime": "application/vnd.lotus-1-2-3"
+    },
+    "cpl": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4D5A"
+            },
+            {
+                "offset": 0,
+                "hex": "DCDC"
+            }
+        ],
+        "mime": "application/cpl+xml"
+    },
+    "epub": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "504B030414000008"
+            }
+        ],
+        "mime": "application/epub+zip"
+    },
+    "ttf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0001000000"
+            }
+        ],
+        "mime": "application/font-sfnt"
+    },
+    "gz": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "1F8B08"
+            }
+        ],
+        "mime": "application/gzip"
+    },
+    "tgz": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "1F8B08"
+            }
+        ],
+        "mime": "application/gzip"
+    },
+    "hqx": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "28546869732066696C65206D75737420626520636F6E76657274656420776974682042696E48657820"
+            }
+        ],
+        "mime": "application/mac-binhex40"
+    },
+    "doc": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0D444F43"
+            },
+            {
+                "offset": 0,
+                "hex": "CF11E0A1B11AE100"
+            },
+            {
+                "offset": 0,
+                "hex": "D0CF11E0A1B11AE1"
+            },
+            {
+                "offset": 0,
+                "hex": "DBA52D00"
+            },
+            {
+                "offset": 512,
+                "hex": "ECA5C100"
+            }
+        ],
+        "mime": "application/msword"
+    },
+    "mxf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "060E2B34020501010D0102010102"
+            },
+            {
+                "offset": 0,
+                "hex": "3C435472616E7354696D656C696E653E"
+            }
+        ],
+        "mime": "application/mxf"
+    },
+    "lha": {
+        "signs": [
+            {
+                "offset": 2,
+                "hex": "2D6C68"
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "lzh": {
+        "signs": [
+            {
+                "offset": 2,
+                "hex": "2D6C68"
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "exe": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4D5A"
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "class": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "CAFEBABE"
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "dll": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4D5A"
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "img": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "000100005374616E64617264204A6574204442"
+            },
+            {
+                "offset": 0,
+                "hex": "504943540008"
+            },
+            {
+                "offset": 0,
+                "hex": "514649FB"
+            },
+            {
+                "offset": 0,
+                "hex": "53434D49"
+            },
+            {
+                "offset": 0,
+                "hex": "7E742C015070024D52010000000800000001000031000000310000004301FF0001000800010000007E742C01"
+            },
+            {
+                "offset": 0,
+                "hex": "EB3C902A"
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "iso": {
+        "signs": [
+            {
+                "offset": 32769,
+                "hex": "4344303031"
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "ogx": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4F67675300020000000000000000"
+            }
+        ],
+        "mime": "application/ogg"
+    },
+    "oxps": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "504B0304"
+            }
+        ],
+        "mime": "application/oxps"
+    },
+    "pdf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "25504446"
+            }
+        ],
+        "mime": "application/pdf"
+    },
+    "p10": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "64000000"
+            }
+        ],
+        "mime": "application/pkcs10"
+    },
+    "pls": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "5B706C61796C6973745D"
+            }
+        ],
+        "mime": "application/pls+xml"
+    },
+    "eps": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "252150532D41646F62652D332E3020455053462D332030"
+            },
+            {
+                "offset": 0,
+                "hex": "C5D0D3C6"
+            }
+        ],
+        "mime": "application/postscript"
+    },
+    "ai": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "25504446"
+            }
+        ],
+        "mime": "application/postscript"
+    },
+    "rtf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "7B5C72746631"
+            }
+        ],
+        "mime": "application/rtf"
+    },
+    "tsa": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "47"
+            }
+        ],
+        "mime": "application/tamp-sequence-adjust"
+    },
+    "msf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "2F2F203C212D2D203C6D64623A6D6F726B3A7A"
+            }
+        ],
+        "mime": "application/vnd.epson.msf"
+    },
+    "fdf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "25504446"
+            }
+        ],
+        "mime": "application/vnd.fdf"
+    },
+    "fm": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "3C4D616B657246696C6520"
+            }
+        ],
+        "mime": "application/vnd.framemaker"
+    },
+    "kmz": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "504B0304"
+            }
+        ],
+        "mime": "application/vnd.google-earth.kmz"
+    },
+    "tpl": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0020AF30"
+            },
+            {
+                "offset": 0,
+                "hex": "6D7346696C7465724C697374"
+            }
+        ],
+        "mime": "application/vnd.groove-tool-template"
+    },
+    "kwd": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "504B0304"
+            }
+        ],
+        "mime": "application/vnd.kde.kword"
+    },
+    "wk4": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "00001A000210040000000000"
+            }
+        ],
+        "mime": "application/vnd.lotus-1-2-3"
+    },
+    "wk3": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "00001A000010040000000000"
+            }
+        ],
+        "mime": "application/vnd.lotus-1-2-3"
+    },
+    "wk1": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0000020006040600080000000000"
+            }
+        ],
+        "mime": "application/vnd.lotus-1-2-3"
+    },
+    "apr": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "D0CF11E0A1B11AE1"
+            }
+        ],
+        "mime": "application/vnd.lotus-approach"
+    },
+    "nsf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "1A0000040000"
+            },
+            {
+                "offset": 0,
+                "hex": "4E45534D1A01"
+            }
+        ],
+        "mime": "application/vnd.lotus-notes"
+    },
+    "ntf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "1A0000"
+            },
+            {
+                "offset": 0,
+                "hex": "30314F52444E414E43452053555256455920202020202020"
+            },
+            {
+                "offset": 0,
+                "hex": "4E49544630"
+            }
+        ],
+        "mime": "application/vnd.lotus-notes"
+    },
+    "org": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "414F4C564D313030"
+            }
+        ],
+        "mime": "application/vnd.lotus-organizer"
+    },
+    "lwp": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "576F726450726F"
+            }
+        ],
+        "mime": "application/vnd.lotus-wordpro"
+    },
+    "sam": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "5B50686F6E655D"
+            }
+        ],
+        "mime": "application/vnd.lotus-wordpro"
+    },
+    "mif": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "3C4D616B657246696C6520"
+            },
+            {
+                "offset": 0,
+                "hex": "56657273696F6E20"
+            }
+        ],
+        "mime": "application/vnd.mif"
+    },
+    "xul": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "3C3F786D6C2076657273696F6E3D22312E30223F3E"
+            }
+        ],
+        "mime": "application/vnd.mozilla.xul+xml"
+    },
+    "asf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "3026B2758E66CF11A6D900AA0062CE6C"
+            }
+        ],
+        "mime": "application/vnd.ms-asf"
+    },
+    "cab": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "49536328"
+            },
+            {
+                "offset": 0,
+                "hex": "4D534346"
+            }
+        ],
+        "mime": "application/vnd.ms-cab-compressed"
+    },
+    "xls": {
+        "signs": [
+            {
+                "offset": 512,
+                "hex": "0908100000060500"
+            },
+            {
+                "offset": 0,
+                "hex": "D0CF11E0A1B11AE1"
+            },
+            {
+                "offset": 512,
+                "hex": "FDFFFFFF04"
+            },
+            {
+                "offset": 512,
+                "hex": "FDFFFFFF20000000"
+            }
+        ],
+        "mime": "application/vnd.ms-excel"
+    },
+    "xla": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "D0CF11E0A1B11AE1"
+            }
+        ],
+        "mime": "application/vnd.ms-excel"
+    },
+    "chm": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "49545346"
+            }
+        ],
+        "mime": "application/vnd.ms-htmlhelp"
+    },
+    "ppt": {
+        "signs": [
+            {
+                "offset": 512,
+                "hex": "006E1EF0"
+            },
+            {
+                "offset": 512,
+                "hex": "0F00E803"
+            },
+            {
+                "offset": 512,
+                "hex": "A0461DF0"
+            },
+            {
+                "offset": 0,
+                "hex": "D0CF11E0A1B11AE1"
+            },
+            {
+                "offset": 512,
+                "hex": "FDFFFFFF04"
+            }
+        ],
+        "mime": "application/vnd.ms-powerpoint"
+    },
+    "pps": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "D0CF11E0A1B11AE1"
+            }
+        ],
+        "mime": "application/vnd.ms-powerpoint"
+    },
+    "wks": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0E574B53"
+            },
+            {
+                "offset": 0,
+                "hex": "FF000200040405540200"
+            }
+        ],
+        "mime": "application/vnd.ms-works"
+    },
+    "wpl": {
+        "signs": [
+            {
+                "offset": 84,
+                "hex": "4D6963726F736F66742057696E646F7773204D6564696120506C61796572202D2D20"
+            }
+        ],
+        "mime": "application/vnd.ms-wpl"
+    },
+    "xps": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "504B0304"
+            }
+        ],
+        "mime": "application/vnd.ms-xpsdocument"
+    },
+    "cif": {
+        "signs": [
+            {
+                "offset": 2,
+                "hex": "5B56657273696F6E"
+            }
+        ],
+        "mime": "application/vnd.multiad.creator.cif"
+    },
+    "odp": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "504B0304"
+            }
+        ],
+        "mime": "application/vnd.oasis.opendocument.presentation"
+    },
+    "odt": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "504B0304"
+            }
+        ],
+        "mime": "application/vnd.oasis.opendocument.text"
+    },
+    "ott": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "504B03041400000800" 
+            }
+        ],
+        "mime": "application/vnd.oasis.opendocument.text-template"
+    },
+    "pptx": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "504B030414000600"
+            }
+        ],
+        "mime": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+    },
+    "xlsx": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "504B030414000600"
+            }
+        ],
+        "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "docx": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "504B030414000600"
+            }
+        ],
+        "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    "prc": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "424F4F4B4D4F4249"
+            },
+            {
+                "offset": 60,
+                "hex": "74424D504B6E5772"
+            }
+        ],
+        "mime": "application/vnd.palm"
+    },
+    "pdb": {
+        "signs": [
+            {
+                "offset": 11,
+                "hex": "000000000000000000000000000000000000000000000000"
+            },
+            {
+                "offset": 0,
+                "hex": "4D2D5720506F636B6574204469637469"
+            },
+            {
+                "offset": 0,
+                "hex": "4D6963726F736F667420432F432B2B20"
+            },
+            {
+                "offset": 0,
+                "hex": "736D5F"
+            },
+            {
+                "offset": 0,
+                "hex": "737A657A"
+            },
+            {
+                "offset": 0,
+                "hex": "ACED0005737200126267626C69747A2E"
+            }
+        ],
+        "mime": "application/vnd.palm"
+    },
+    "qxd": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "00004D4D585052"
+            }
+        ],
+        "mime": "application/vnd.Quark.QuarkXPress"
+    },
+    "rar": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "526172211A0700"
+            },
+            {
+                "offset": 0,
+                "hex": "526172211A070100"
+            }
+        ],
+        "mime": "application/vnd.rar"
+    },
+    "mmf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4D4D4D440000"
+            }
+        ],
+        "mime": "application/vnd.smaf"
+    },
+    "cap": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "52545353"
+            },
+            {
+                "offset": 0,
+                "hex": "58435000"
+            }
+        ],
+        "mime": "application/vnd.tcpdump.pcap"
+    },
+    "dmp": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4D444D5093A7"
+            },
+            {
+                "offset": 0,
+                "hex": "5041474544553634"
+            },
+            {
+                "offset": 0,
+                "hex": "5041474544554D50"
+            }
+        ],
+        "mime": "application/vnd.tcpdump.pcap"
+    },
+    "wpd": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "FF575043"
+            }
+        ],
+        "mime": "application/vnd.wordperfect"
+    },
+    "xar": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "78617221"
+            }
+        ],
+        "mime": "application/vnd.xara"
+    },
+    "spf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "5350464900"
+            }
+        ],
+        "mime": "application/vnd.yamaha.smaf-phrase"
+    },
+    "dtd": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0764743264647464"
+            }
+        ],
+        "mime": "application/xml-dtd"
+    },
+    "zip": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "504B0304"
+            },
+            {
+                "offset": 0,
+                "hex": "504B030414000100630000000000"
+            },
+            {
+                "offset": 0,
+                "hex": "504B0708"
+            },
+            {
+                "offset": 30,
+                "hex": "504B4C495445"
+            },
+            {
+                "offset": 526,
+                "hex": "504B537058"
+            },
+            {
+                "offset": 29152,
+                "hex": "57696E5A6970"
+            }
+        ],
+        "mime": "application/zip"
+    },
+    "amr": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "2321414D52"
+            }
+        ],
+        "mime": "audio/AMR"
+    },
+    "au": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "2E736E64"
+            },
+            {
+                "offset": 0,
+                "hex": "646E732E"
+            }
+        ],
+        "mime": "audio/basic"
+    },
+    "m4a": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0000001866747970"
+            }
+        ],
+        "mime": "audio/mp4"
+    },
+    "mp3": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "494433"
+            },
+            {
+                "offset": 0,
+                "hex": "FFFB"
+            }
+        ],
+        "mime": "audio/mpeg"
+    },
+    "oga": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4F67675300020000000000000000"
+            }
+        ],
+        "mime": "audio/ogg"
+    },
+    "ogg": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4F67675300020000000000000000"
+            }
+        ],
+        "mime": "audio/ogg"
+    },
+    "qcp": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "52494646"
+            }
+        ],
+        "mime": "audio/qcelp"
+    },
+    "koz": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "49443303000000"
+            }
+        ],
+        "mime": "audio/vnd.audikoz"
+    },
+    "bmp": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "424D"
+            }
+        ],
+        "mime": "image/bmp"
+    },
+    "dib": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "424D"
+            }
+        ],
+        "mime": "image/bmp"
+    },
+    "emf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "01000000"
+            }
+        ],
+        "mime": "image/emf"
+    },
+    "fits": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "53494D504C4520203D202020202020202020202020202020202020202054"
+            }
+        ],
+        "mime": "image/fits"
+    },
+    "gif": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "474946383961"
+            }
+        ],
+        "mime": "image/gif"
+    },
+    "jp2": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0000000C6A5020200D0A"
+            }
+        ],
+        "mime": "image/jp2"
+    },
+    "jpg": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "FFD8"
+            }
+        ],
+        "mime": "image/jpeg"
+    },
+    "jpeg": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "FFD8"
+            }
+        ],
+        "mime": "image/jpeg"
+    },
+    "jpe": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "FFD8"
+            }
+        ],
+        "mime": "image/jpeg"
+    },
+    "jfif": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "FFD8"
+            }
+        ],
+        "mime": "image/jpeg"
+    },
+    "png": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "89504E470D0A1A0A"
+            }
+        ],
+        "mime": "image/png"
+    },
+    "tiff": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "492049"
+            },
+            {
+                "offset": 0,
+                "hex": "49492A00"
+            },
+            {
+                "offset": 0,
+                "hex": "4D4D002A"
+            },
+            {
+                "offset": 0,
+                "hex": "4D4D002B"
+            }
+        ],
+        "mime": "image/tiff"
+    },
+    "tif": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "492049"
+            },
+            {
+                "offset": 0,
+                "hex": "49492A00"
+            },
+            {
+                "offset": 0,
+                "hex": "4D4D002A"
+            },
+            {
+                "offset": 0,
+                "hex": "4D4D002B"
+            }
+        ],
+        "mime": "image/tiff"
+    },
+    "psd": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "38425053"
+            }
+        ],
+        "mime": "image/vnd.adobe.photoshop"
+    },
+    "dwg": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "41433130"
+            }
+        ],
+        "mime": "image/vnd.dwg"
+    },
+    "ico": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0000010001"
+            }
+        ],
+        "mime": "image/vnd.microsoft.icon"
+    },
+    "mdi": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4550"
+            }
+        ],
+        "mime": "image/vnd.ms-modi"
+    },
+    "hdr": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "233F52414449414E43450A"
+            },
+            {
+                "offset": 0,
+                "hex": "49536328"
+            }
+        ],
+        "mime": "image/vnd.radiance"
+    },
+    "pcx": {
+        "signs": [
+            {
+                "offset": 512,
+                "hex": "0908100000060500"
+            }
+        ],
+        "mime": "image/vnd.zbrush.pcx"
+    },
+    "wmf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "010009000003"
+            },
+            {
+                "offset": 0,
+                "hex": "D7CDC69A"
+            }
+        ],
+        "mime": "image/wmf"
+    },
+    "eml": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "46726F6D3A20"
+            },
+            {
+                "offset": 0,
+                "hex": "52657475726E2D506174683A20"
+            },
+            {
+                "offset": 0,
+                "hex": "582D"
+            }
+        ],
+        "mime": "message/rfc822"
+    },
+    "art": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4A47040E"
+            }
+        ],
+        "mime": "message/rfc822"
+    },
+    "manifest": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "3C3F786D6C2076657273696F6E3D"
+            }
+        ],
+        "mime": "text/cache-manifest"
+    },
+    "log": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "2A2A2A2020496E7374616C6C6174696F6E205374617274656420"
+            }
+        ],
+        "mime": "text/plain"
+    },
+    "tsv": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "47"
+            }
+        ],
+        "mime": "text/tab-separated-values"
+    },
+    "vcf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "424547494E3A56434152440D0A"
+            }
+        ],
+        "mime": "text/vcard"
+    },
+    "dms": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "444D5321"
+            }
+        ],
+        "mime": "text/vnd.DMClientScript"
+    },
+    "dot": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "D0CF11E0A1B11AE1"
+            }
+        ],
+        "mime": "text/vnd.graphviz"
+    },
+    "ts": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "47401110"
+            }
+        ],
+        "mime": "text/vnd.trolltech.linguist"
+    },
+    "3gp": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0000001466747970336770"
+            },
+            {
+                "offset": 0,
+                "hex": "0000002066747970336770"
+            }
+        ],
+        "mime": "video/3gpp"
+    },
+    "3g2": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0000001466747970336770"
+            },
+            {
+                "offset": 0,
+                "hex": "0000002066747970336770"
+            }
+        ],
+        "mime": "video/3gpp2"
+    },
+    "mp4": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0000001866747970"
+            },
+            {
+                "offset": 0,
+                "hex": "0000002066747970"
+            },
+            {
+                "offset": 0,
+                "hex": "0000001C667479704D534E56012900464D534E566D703432"
+            },
+            {
+                "offset": 4,
+                "hex": "6674797033677035"
+            },
+            {
+                "offset": 4,
+                "hex": "667479704D534E56"
+            },
+            {
+                "offset": 4,
+                "hex": "6674797069736F6D"
+            }
+        ],
+        "mime": "video/mp4"
+    },
+    "m4v": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "00000018667479706D703432"
+            },
+            {
+                "offset": 0,
+                "hex": "00000020667479704D345620"
+            },
+            {
+                "offset": 4,
+                "hex": "667479706D703432"
+            }
+        ],
+        "mime": "video/mp4"
+    },
+    "mpeg": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "000001BA"
+            },
+            {
+                "offset": 0,
+                "hex": "000001BA21000100"
+            }
+        ],
+        "mime": "video/mpeg"
+    },
+    "mpg": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "000001B3"
+            },
+            {
+                "offset": 0,
+                "hex": "00000B378"
+            }
+        ],
+        "mime": "video/mpeg"
+    },
+    "ogv": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4F67675300020000000000000000"
+            }
+        ],
+        "mime": "video/ogg"
+    },
+    "mov": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "00"
+            },
+            {
+                "offset": 0,
+                "hex": "000000146674797071742020"
+            },
+            {
+                "offset": 4,
+                "hex": "6674797071742020"
+            },
+            {
+                "offset": 4,
+                "hex": "6D6F6F76"
+            }
+        ],
+        "mime": "video/quicktime"
+    },
+    "cpt": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4350543746494C45"
+            },
+            {
+                "offset": 0,
+                "hex": "43505446494C45"
+            }
+        ],
+        "mime": "application/mac-compactpro"
+    },
+    "sxc": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "504B0304"
+            }
+        ],
+        "mime": "application/vnd.sun.xml.calc"
+    },
+    "sxd": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "504B0304"
+            }
+        ],
+        "mime": "application/vnd.sun.xml.draw"
+    },
+    "sxi": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "504B0304"
+            }
+        ],
+        "mime": "application/vnd.sun.xml.impress"
+    },
+    "sxw": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "504B0304"
+            }
+        ],
+        "mime": "application/vnd.sun.xml.writer"
+    },
+    "bz2": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "425A68"
+            }
+        ],
+        "mime": "application/x-bzip2"
+    },
+    "vcd": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "454E5452595643440200000102001858"
+            }
+        ],
+        "mime": "application/x-cdlink"
+    },
+    "csh": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "6375736800000002000000"
+            }
+        ],
+        "mime": "application/x-csh"
+    },
+    "spl": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "00000100"
+            }
+        ],
+        "mime": "application/x-futuresplash"
+    },
+    "jar": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4A4152435300"
+            },
+            {
+                "offset": 0,
+                "hex": "504B0304"
+            },
+            {
+                "offset": 0,
+                "hex": "504B0304140008000800"
+            },
+            {
+                "offset": 0,
+                "hex": "5F27A889"
+            }
+        ],
+        "mime": "application/x-java-archive"
+    },
+    "rpm": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "EDABEEDB"
+            }
+        ],
+        "mime": "application/x-rpm"
+    },
+    "swf": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "435753"
+            },
+            {
+                "offset": 0,
+                "hex": "465753"
+            },
+            {
+                "offset": 0,
+                "hex": "5A5753"
+            }
+        ],
+        "mime": "application/x-shockwave-flash"
+    },
+    "sit": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "5349542100"
+            },
+            {
+                "offset": 0,
+                "hex": "5374756666497420286329313939372D"
+            }
+        ],
+        "mime": "application/x-stuffit"
+    },
+    "tar": {
+        "signs": [
+            {
+                "offset": 257,
+                "hex": "7573746172"
+            }
+        ],
+        "mime": "application/x-tar"
+    },
+    "xpi": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "504B0304"
+            }
+        ],
+        "mime": "application/x-xpinstall"
+    },
+    "xz": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "FD377A585A00"
+            }
+        ],
+        "mime": "application/x-xz"
+    },
+    "mid": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4D546864"
+            }
+        ],
+        "mime": "audio/midi"
+    },
+    "midi": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4D546864"
+            }
+        ],
+        "mime": "audio/midi"
+    },
+    "aiff": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "464F524D00"
+            }
+        ],
+        "mime": "audio/x-aiff"
+    },
+    "flac": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "664C614300000022"
+            }
+        ],
+        "mime": "audio/x-flac"
+    },
+    "wma": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "3026B2758E66CF11A6D900AA0062CE6C"
+            }
+        ],
+        "mime": "audio/x-ms-wma"
+    },
+    "ram": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "727473703A2F2F"
+            }
+        ],
+        "mime": "audio/x-pn-realaudio"
+    },
+    "rm": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "2E524D46"
+            }
+        ],
+        "mime": "audio/x-pn-realaudio"
+    },
+    "ra": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "2E524D460000001200"
+            },
+            {
+                "offset": 0,
+                "hex": "2E7261FD00"
+            }
+        ],
+        "mime": "audio/x-realaudio"
+    },
+    "wav": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "5249464672"
+            }
+        ],
+        "mime": "audio/x-wav"
+    },
+    "webp": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "52494646"
+            }
+        ],
+        "mime": "image/webp"
+    },
+    "pgm": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "50350A"
+            }
+        ],
+        "mime": "image/x-portable-graymap"
+    },
+    "rgb": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "01DA01010003"
+            }
+        ],
+        "mime": "image/x-rgb"
+    },
+    "webm": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "1A45DFA3"
+            }
+        ],
+        "mime": "video/webm"
+    },
+    "flv": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "464C5601"
+            }
+        ],
+        "mime": "video/x-flv"
+    },
+    "mkv": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "1A45DFA3"
+            }
+        ],
+        "mime": "video/x-matroska"
+    },
+    "asx": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "3C"
+            }
+        ],
+        "mime": "video/x-ms-asf"
+    },
+    "wmv": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "3026B2758E66CF11A6D900AA0062CE6C"
+            }
+        ],
+        "mime": "video/x-ms-wmv"
+    },
+    "avi": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "5249464668454300"
+            },
+            {
+                "offset": 0,
+                "hex": "5249464664339700"
+            },
+            {
+                "offset": 0,
+                "hex": "524946468633FC00"
+            }
+        ],
+        "mime": "video/x-msvideo"
+    }
+}

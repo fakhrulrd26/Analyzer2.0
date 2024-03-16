@@ -1,0 +1,69 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Country {
+  code String @id
+  name String @unique
+  users User[]
+}
+
+model User {
+  id Int @id @default(autoincrement())
+  email String @unique
+  name String 
+  username String @unique
+  password String
+  country_code String
+  role Int @default(0)
+  country Country @relation(fields: [country_code], references: [code])
+  refresh_tokens RefreshToken[]
+  feedbacks Feedback[]
+}
+
+model Mime {
+  id Int @id @default(autoincrement())
+  name String @unique
+  extensions Extension[]
+}
+
+model Extension {
+  id Int @id @default(autoincrement())
+  name String @unique
+  mime_id Int
+  mime Mime @relation(fields: [mime_id], references: [id])
+  signatures Signature[]
+}
+
+model Signature {
+  id Int @id @default(autoincrement())
+  offset Int
+  hex String
+  extension_id Int
+  extension Extension @relation(fields: [extension_id], references: [id])
+}
+
+model RefreshToken {
+  user_id Int @id
+  owner User @relation(fields: [user_id], references: [id])
+  token String
+  createdAt DateTime @default(now())
+}
+
+model Feedback {
+  id Int @id @default(autoincrement())
+  createdAt DateTime @default(now())
+  content String
+  isHelping Boolean
+  rate Int
+  user_id Int
+  user User @relation(fields: [user_id], references: [id])
+}

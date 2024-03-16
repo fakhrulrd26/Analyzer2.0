@@ -1,0 +1,4858 @@
+[
+    {
+    "FileDescription": "High Efficiency Image Container (HEIC)",
+    "Header": "00 00 00",
+    "FileExtension": "AVIF",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "JPEG2000 image files",
+    "Header": "00 00 00 0C 6A 50 20 20",
+    "FileExtension": "JP2",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "3GPP multimedia files",
+    "Header": "00 00 00 14 66 74 79 70",
+    "FileExtension": "3GP",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MPEG-4 v1",
+    "Header": "00 00 00 14 66 74 79 70 69 73 6F 6D",
+    "FileExtension": "MP4",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "3rd Generation Partnership Project 3GPP",
+    "Header": "00 00 00 14 66 74 79 70",
+    "FileExtension": "3GG|3GP|3G2",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows Disk Image",
+    "Header": "00 00 00 00 14 00 00 00",
+    "FileExtension": "TBI",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Bitcoin Core wallet.dat file",
+    "Header": "00 00 00 00 62 31 05 00 09 00 00 00 00 20 00 00 00 09 00 00 00 00 00 00",
+    "FileExtension": "DAT",
+    "FileClass": "Finance",
+    "HeaderOffset": "8",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MPEG-4 video_1",
+    "Header": "00 00 00 18 66 74 79 70",
+    "FileExtension": "3GP5|M4V|MP4",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MPEG-4 video_2",
+    "Header": "00 00 00 1C 66 74 79 70",
+    "FileExtension": "MP4",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "3GPP2 multimedia files",
+    "Header": "00 00 00 20 66 74 79 70",
+    "FileExtension": "3GP",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Apple audio and video",
+    "Header": "00 00 00 20 66 74 79 70 4D 34 41",
+    "FileExtension": "M4A",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "3rd Generation Partnership Project 3GPP2",
+    "Header": "00 00 00 20 66 74 79 70",
+    "FileExtension": "3GG|3GP|3G2",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows icon|printer spool file",
+    "Header": "00 00 01 00",
+    "FileExtension": "ICO|SPL",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MPEG video file",
+    "Header": "00 00 01 B3",
+    "FileExtension": "MPG",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": "00 00 01 B7"
+    },
+    {
+    "FileDescription": "DVD video file",
+    "Header": "00 00 01 BA",
+    "FileExtension": "MPG|VOB",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": "00 00 01 B9"
+    },
+    {
+    "FileDescription": "Windows cursor",
+    "Header": "00 00 02 00",
+    "FileExtension": "CUR",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Compucon-Singer embroidery design file",
+    "Header": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+    "FileExtension": "XXX",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "QuattroPro spreadsheet",
+    "Header": "00 00 02 00",
+    "FileExtension": "WB2",
+    "FileClass": "Spreadsheet",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Amiga Hunk executable",
+    "Header": "00 00 03 F3",
+    "FileExtension": null,
+    "FileClass": "System",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Wii images container",
+    "Header": "00 20 AF 30",
+    "FileExtension": "TPL",
+    "FileClass": "System",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Lotus 1-2-3 (v1)",
+    "Header": "00 00 02 00 06 04 06 00",
+    "FileExtension": "WK1",
+    "FileClass": "Spreadsheet",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Lotus 1-2-3 (v3)",
+    "Header": "00 00 1A 00 00 10 04 00",
+    "FileExtension": "WK3",
+    "FileClass": "Spreadsheet",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Lotus 1-2-3 (v4-v5)",
+    "Header": "00 00 1A 00 02 10 04 00",
+    "FileExtension": "WK4|WK5",
+    "FileClass": "Spreadsheet",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Lotus 1-2-3 (v9)",
+    "Header": "00 00 1A 00 05 10 04",
+    "FileExtension": "123",
+    "FileClass": "Spreadsheet",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Quark Express (Intel)",
+    "Header": "00 00 49 49 58 50 52",
+    "FileExtension": "QXD",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Quark Express (Motorola)",
+    "Header": "00 00 4D 4D 58 50 52",
+    "FileExtension": "QXD",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows Help file_1",
+    "Header": "00 00 FF FF FF FF",
+    "FileExtension": "HLP",
+    "FileClass": "Windows",
+    "HeaderOffset": "6",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "TrueType font file",
+    "Header": "00 01 00 00 00",
+    "FileExtension": "TTF",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Microsoft Money file",
+    "Header": "00 01 00 00 4D 53 49 53 41 4D 20 44 61 74 61 62 61 73 65",
+    "FileExtension": "MNY",
+    "FileClass": "Finance",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Microsoft Access 2007",
+    "Header": "00 01 00 00 53 74 61 6E 64 61 72 64 20 41 43 45 20 44 42",
+    "FileExtension": "ACCDB",
+    "FileClass": "Database",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Microsoft Access",
+    "Header": "00 01 00 00 53 74 61 6E 64 61 72 64 20 4A 65 74 20 44 42",
+    "FileExtension": "MDB",
+    "FileClass": "Database",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Palm Address Book Archive",
+    "Header": "00 01 42 41",
+    "FileExtension": "ABA",
+    "FileClass": "Mobile",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Palm DateBook Archive",
+    "Header": "00 01 42 44",
+    "FileExtension": "DBA",
+    "FileClass": "Mobile",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Netscape Navigator (v4) database",
+    "Header": "00 06 15 61 00 00 00 02 00 00 04 D2 00 00 10 00",
+    "FileExtension": "DB",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Mbox table of contents file",
+    "Header": "00 0D BB A0",
+    "FileExtension": null,
+    "FileClass": "E-mail",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "FLIC animation",
+    "Header": "00 11",
+    "FileExtension": "FLI",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "BIOS details in RAM",
+    "Header": "00 14 00 00 01 02",
+    "FileExtension": null,
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Netscape Communicator (v4) mail folder",
+    "Header": "00 1E 84 90 00 00 00 00",
+    "FileExtension": "SNM",
+    "FileClass": "Email",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PowerPoint presentation subheader_1",
+    "Header": "00 6E 1E F0",
+    "FileExtension": "PPT",
+    "FileClass": "Presentation",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Webex Advanced Recording Format",
+    "Header": "01 00 02 00",
+    "FileExtension": "ARF",
+    "FileClass": "Video",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Firebird and Interbase database files",
+    "Header": "01 00 39 30",
+    "FileExtension": "FDB|GDB",
+    "FileClass": "Database",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "The Bat! Message Base Index",
+    "Header": "01 01 47 19 A4 00 00 00 00 00 00 00",
+    "FileExtension": "TBI",
+    "FileClass": "Email",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "SQL Data Base",
+    "Header": "01 0F 00 00",
+    "FileExtension": "MDF",
+    "FileClass": "Database",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Novell LANalyzer capture file",
+    "Header": "01 10",
+    "FileExtension": "TR1",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Silicon Graphics RGB Bitmap",
+    "Header": "01 DA 01 01 00 03",
+    "FileExtension": "RGB",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Micrografx vector graphic file",
+    "Header": "01 FF 02 04 03 02",
+    "FileExtension": "DRW",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Digital Speech Standard file",
+    "Header": "02 64 73 73",
+    "FileExtension": "DSS",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MapInfo Native Data Format",
+    "Header": "03",
+    "FileExtension": "DAT",
+    "FileClass": "Navigation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "dBASE III file",
+    "Header": "03",
+    "FileExtension": "DB3",
+    "FileClass": "Database",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Quicken price history",
+    "Header": "03 00 00 00",
+    "FileExtension": "QPH",
+    "FileClass": "Finance",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Nokia PC Suite Content Copier file",
+    "Header": "03 00 00 00",
+    "FileExtension": "NFC",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Approach index file",
+    "Header": "03 00 00 00 41 50 50 52",
+    "FileExtension": "ADX",
+    "FileClass": "Database",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Digital Speech Standard (v3)",
+    "Header": "03 64 73 73",
+    "FileExtension": "DSS",
+    "FileClass": "Audio",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "dBASE IV file",
+    "Header": "04",
+    "FileExtension": "DB4",
+    "FileClass": "Database",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "INFO2 Windows recycle bin_1",
+    "Header": "04 00 00 00",
+    "FileExtension": null,
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "INFO2 Windows recycle bin_2",
+    "Header": "05 00 00 00",
+    "FileExtension": null,
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Adobe InDesign",
+    "Header": "06 06 ED F5 D8 1D 46 E5 BD 31 EF E7 FE 74 B7 1D",
+    "FileExtension": "INDD",
+    "FileClass": "Media",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Material Exchange Format",
+    "Header": "06 0E 2B 34 02 05 01 01 0D 01 02 01 01 02",
+    "FileExtension": "MXF",
+    "FileClass": "Media",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Generic drawing programs",
+    "Header": "07",
+    "FileExtension": "DRW",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "SkinCrafter skin",
+    "Header": "07 53 4B 46",
+    "FileExtension": "SKF",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "DesignTools 2D Design file",
+    "Header": "07 64 74 32 64 64 74 64",
+    "FileExtension": "DTD",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "dBASE IV or dBFast configuration file",
+    "Header": "08",
+    "FileExtension": "DB",
+    "FileClass": "Database",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Excel spreadsheet subheader_1",
+    "Header": "09 08 10 00 00 06 05 00",
+    "FileExtension": "XLS",
+    "FileClass": "Spreadsheet",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "ZSOFT Paintbrush file_1",
+    "Header": "0A 02 01 01",
+    "FileExtension": "PCX",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "ZSOFT Paintbrush file_2",
+    "Header": "0A 03 01 01",
+    "FileExtension": "PCX",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "ZSOFT Paintbrush file_3",
+    "Header": "0A 05 01 01",
+    "FileExtension": "PCX",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MultiBit Bitcoin wallet file",
+    "Header": "0A 16 6F 72 67 2E 62 69 74 63 6F 69 6E 2E 70 72",
+    "FileExtension": "WALLET",
+    "FileClass": "e-money",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Monochrome Picture TIFF bitmap",
+    "Header": "0C ED",
+    "FileExtension": "MP",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "DeskMate Document",
+    "Header": "0D 44 4F 43",
+    "FileExtension": "DOC",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Nero CD compilation",
+    "Header": "0E 4E 65 72 6F 49 53 4F",
+    "FileExtension": "NRI",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "DeskMate Worksheet",
+    "Header": "0E 57 4B 53",
+    "FileExtension": "WKS",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PowerPoint presentation subheader_2",
+    "Header": "0F 00 E8 03",
+    "FileExtension": "PPT",
+    "FileClass": "Presentation",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Sibelius Music - Score",
+    "Header": "0F 53 49 42 45 4C 49 55 53",
+    "FileExtension": "SIB",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Easy CD Creator 5 Layout file",
+    "Header": "10 00 00 00",
+    "FileExtension": "CL5",
+    "FileClass": "Utility",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows prefetch file",
+    "Header": "11 00 00 00 53 43 43 41",
+    "FileExtension": "PF",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Lotus Notes database template",
+    "Header": "1A 00 00",
+    "FileExtension": "NTF",
+    "FileClass": "Spreadsheet",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Lotus Notes database",
+    "Header": "1A 00 00 04 00 00",
+    "FileExtension": "NSF",
+    "FileClass": "Spreadsheet",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "LH archive (old vers.-type 1)",
+    "Header": "1A 02",
+    "FileExtension": "ARC",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "LH archive (old vers.-type 2)",
+    "Header": "1A 03",
+    "FileExtension": "ARC",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "LH archive (old vers.-type 3)",
+    "Header": "1A 04",
+    "FileExtension": "ARC",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "LH archive (old vers.-type 4)",
+    "Header": "1A 08",
+    "FileExtension": "ARC",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "LH archive (old vers.-type 5)",
+    "Header": "1A 09",
+    "FileExtension": "ARC",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Compressed archive file",
+    "Header": "1A 0B",
+    "FileExtension": "PAK",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "WinPharoah capture file",
+    "Header": "1A 35 01 00",
+    "FileExtension": "ETH",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "WebM video file",
+    "Header": "1A 45 DF A3",
+    "FileExtension": "WEBM",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Matroska stream file_1",
+    "Header": "1A 45 DF A3",
+    "FileExtension": "MKV",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Matroska stream file_2",
+    "Header": "1A 45 DF A3 93 42 82 88",
+    "FileExtension": "MKV",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Runtime Software disk image",
+    "Header": "1A 52 54 53 20 43 4F 4D",
+    "FileExtension": "DAT",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "WordStar Version 5.0-6.0 document",
+    "Header": "1D 7D",
+    "FileExtension": "WS",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "GZIP archive file",
+    "Header": "1F 8B 08",
+    "FileExtension": "GZ",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "VLC Player Skin file",
+    "Header": "1F 8B 08",
+    "FileExtension": "VLT",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Synology router configuration backup file",
+    "Header": "1F 8B 08 00",
+    "FileExtension": "DSS",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Compressed tape archive_1",
+    "Header": "1F 9D 90",
+    "FileExtension": "TAR.Z",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Compressed tape archive_2",
+    "Header": "1F A0",
+    "FileExtension": "TAR.Z",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MapInfo Sea Chart",
+    "Header": "21",
+    "FileExtension": "BSB",
+    "FileClass": "Navigation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "NOAA Raster Navigation Chart (RNC) file",
+    "Header": "21 0D 0A 43 52 52 2F 54 68 69 73 20 65 6C 65 63",
+    "FileExtension": "BSB",
+    "FileClass": "Navigation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "AIN Compressed Archive",
+    "Header": "21 12",
+    "FileExtension": "AIN",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Unix archiver (ar)-MS Program Library Common Object File Format (COFF)",
+    "Header": "21 3C 61 72 63 68 3E 0A",
+    "FileExtension": "LIB",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Microsoft Outlook Exchange Offline Storage Folder",
+    "Header": "21 42 44 4E",
+    "FileExtension": "OST",
+    "FileClass": "Email",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Cerius2 file",
+    "Header": "23 20",
+    "FileExtension": "MSI",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "VMware 4 Virtual Disk description",
+    "Header": "23 20 44 69 73 6B 20 44",
+    "FileExtension": "VMDK",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS Developer Studio project file",
+    "Header": "23 20 4D 69 63 72 6F 73",
+    "FileExtension": "DSP",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Google Earth Keyhole Placemark file",
+    "Header": "23 20 54 68 69 73 20 69 73 20 61 6E 20 4B 65 79",
+    "FileExtension": "ETA",
+    "FileClass": "Navigation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Adaptive Multi-Rate ACELP Codec (GSM)",
+    "Header": "23 21 41 4D 52",
+    "FileExtension": "AMR",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Skype audio compression",
+    "Header": "23 21 53 49 4C 4B 0A",
+    "FileExtension": "SIL",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Radiance High Dynamic Range image file",
+    "Header": "23 3F 52 41 44 49 41 4E",
+    "FileExtension": "HDR",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "VBScript Encoded script",
+    "Header": "23 40 7E 5E",
+    "FileExtension": "VBE",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "NVIDIA Scene Graph binary file",
+    "Header": "23 4E 42 46",
+    "FileExtension": "NBF",
+    "FileClass": "Video",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Brother-Babylock-Bernina Home Embroidery",
+    "Header": "23 50 45 43 30 30 30 31",
+    "FileExtension": "PEC",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Brother-Babylock-Bernina Home Embroidery",
+    "Header": "23 50 45 53 30",
+    "FileExtension": "PES",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "SPSS Data file",
+    "Header": "24 46 4C 32 40 28 23 29",
+    "FileExtension": "SAV",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Encapsulated PostScript file",
+    "Header": "25 21 50 53 2D 41 64 6F",
+    "FileExtension": "EPS",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PDF file",
+    "Header": "25 50 44 46",
+    "FileExtension": "PDF|FDF",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": "25 25 45 4F 46"
+    },
+    {
+    "FileDescription": "Fuzzy bitmap (FBM) file",
+    "Header": " 25 62 69 74 6D 61 70",
+    "FileExtension": "FBM",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "BinHex 4 Compressed Archive",
+    "Header": "28 54 68 69 73 20 66 69",
+    "FileExtension": "HQX",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Symantec Wise Installer log",
+    "Header": " 2A 2A 2A 20 20 49 6E 73",
+    "FileExtension": "LOG",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Compressed archive",
+    "Header": "2D 6C 68",
+    "FileExtension": "LHA|LZH",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "2",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "RealPlayer video file (V11+)",
+    "Header": "2E 52 45 43",
+    "FileExtension": "IVR",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "RealMedia streaming media",
+    "Header": "2E 52 4D 46",
+    "FileExtension": "RM|RMVB",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "RealAudio file",
+    "Header": "2E 52 4D 46 00 00 00 12",
+    "FileExtension": "RA",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "RealAudio streaming media",
+    "Header": "2E 72 61 FD 00",
+    "FileExtension": "RA",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "NeXT-Sun Microsystems audio file",
+    "Header": "2E 73 6E 64",
+    "FileExtension": "AU",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Thunderbird-Mozilla Mail Summary File",
+    "Header": "2F 2F 20 3C 21 2D 2D 20 3C 6D 64 62 3A 6D 6F 72 6B 3A 7A",
+    "FileExtension": "MSF",
+    "FileClass": "E-mail",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS security catalog file",
+    "Header": "30",
+    "FileExtension": "CAT",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows Event Viewer file",
+    "Header": "30 00 00 00 4C 66 4C 65",
+    "FileExtension": "EVT",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "GEnealogical Data COMmunication (GEDCOM) file",
+    "Header": "30 20 48 45 41 44",
+    "FileExtension": "GED",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows Media Audio-Video File",
+    "Header": "30 26 B2 75 8E 66 CF 11",
+    "FileExtension": "ASF|WMA|WMV",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "National Transfer Format Map",
+    "Header": "30 31 4F 52 44 4E 41 4E",
+    "FileExtension": "NTF",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "cpio archive",
+    "Header": "30 37 30 37 30",
+    "FileExtension": null,
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS Write file_1",
+    "Header": "31 BE",
+    "FileExtension": "WRI",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS Write file_2",
+    "Header": "32 BE",
+    "FileExtension": "WRI",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Pfaff Home Embroidery",
+    "Header": "32 03 10 00 00 00 00 00 00 00 80 00 00 00 FF 00",
+    "FileExtension": "PCS",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Tcpdump capture file",
+    "Header": "34 CD B2 A1",
+    "FileExtension": null,
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "7-Zip compressed file",
+    "Header": "37 7A BC AF 27 1C",
+    "FileExtension": "7Z",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "zisofs compressed file",
+    "Header": "37 E4 53 96 C9 DB D6 07",
+    "FileExtension": null,
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Photoshop image",
+    "Header": "38 42 50 53",
+    "FileExtension": "PSD",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Surfplan kite project file",
+    "Header": "3A 56 45 52 53 49 4F 4E",
+    "FileExtension": "SLE",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Advanced Stream Redirector",
+    "Header": "3C",
+    "FileExtension": "ASX",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "BizTalk XML-Data Reduced Schema",
+    "Header": "3C",
+    "FileExtension": "XDR",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "AOL HTML mail",
+    "Header": "3C 21 64 6F 63 74 79 70",
+    "FileExtension": "DCI",
+    "FileClass": "Email",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows Script Component",
+    "Header": "3C 3F",
+    "FileExtension": "WSC",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows Visual Stylesheet",
+    "Header": "3C 3F 78 6D 6C 20 76 65 72 73 69 6F 6E 3D",
+    "FileExtension": "MANIFEST",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "User Interface Language",
+    "Header": "3C 3F 78 6D 6C 20 76 65 72 73 69 6F 6E 3D 22 31 2E 30 22 3F 3E",
+    "FileExtension": "XML",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MMC Snap-in Control file",
+    "Header": "3C 3F 78 6D 6C 20 76 65 72 73 69 6F 6E 3D 22 31 2E 30 22 3F 3E 0D 0A 3C 4D 4D 43 5F 43 6F 6E 73 6F 6C 65 46 69 6C 65 20 43 6F 6E 73 6F 6C 65 56 65 72 73 69 6F 6E 3D 22",
+    "FileExtension": "MSC",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Picasa movie project file",
+    "Header": "3C 43 54 72 61 6E 73 54 69 6D 65 6C 69 6E 65 3E",
+    "FileExtension": "MXF",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Csound music",
+    "Header": "3C 43 73 6F 75 6E 64 53 79 6E 74 68 65 73 69 7A",
+    "FileExtension": "CSD",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Google Earth Keyhole Overlay file",
+    "Header": "3C 4B 65 79 68 6F 6C 65 3E",
+    "FileExtension": "ETA",
+    "FileClass": "Navigation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Adobe FrameMaker",
+    "Header": "3C 4D 61 6B 65 72 46 69",
+    "FileExtension": "FM|MIF",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "GPS Exchange (v1.1)",
+    "Header": "3C 67 70 78 20 76 65 72 73 69 6F 6E 3D 22 31 2E",
+    "FileExtension": "GPX",
+    "FileClass": "Navigation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "BASE85 file",
+    "Header": "3C 7E 36 3C 5C 25 5F 30 67 53 71 68 3B",
+    "FileExtension": "B85",
+    "FileClass": "Word processing",
+    "HeaderOffset": "0",
+    "Trailer": "7E 3E 0A"
+    },
+    {
+    "FileDescription": "Quatro Pro for Windows 7.0",
+    "Header": "3E 00 03 00 FE FF 09 00 06",
+    "FileExtension": "WB3",
+    "FileClass": "Spreadsheet",
+    "HeaderOffset": "24",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows Help file_2",
+    "Header": "3F 5F 03 00",
+    "FileExtension": "GID|HLP",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "EndNote Library File",
+    "Header": "40 40 40 20 00 00 40 40 40 40",
+    "FileExtension": "ENL",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "32",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Analog Box (ABox) circuit files",
+    "Header": "41 42 6F 78",
+    "FileExtension": "ABOX2",
+    "FileClass": "Audio",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Generic AutoCAD drawing",
+    "Header": "41 43 31 30",
+    "FileExtension": "DWG",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Steganos virtual secure drive",
+    "Header": "41 43 76",
+    "FileExtension": "SLE",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "AOL parameter-info files",
+    "Header": "41 43 53 44",
+    "FileExtension": null,
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Harvard Graphics symbol graphic",
+    "Header": "41 4D 59 4F",
+    "FileExtension": "SYW",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "AOL config files",
+    "Header": "41 4F 4C",
+    "FileExtension": "ABI|ABY|BAG|IDX|IND|PFC",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "AOL and AIM buddy list",
+    "Header": "41 4F 4C 20 46 65 65 64",
+    "FileExtension": "BAG",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "AOL address book",
+    "Header": "41 4F 4C 44 42",
+    "FileExtension": "ABY",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "AOL user configuration",
+    "Header": "41 4F 4C 44 42",
+    "FileExtension": "IDX",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "AOL client preferences-settings file",
+    "Header": "41 4F 4C 49 44 58",
+    "FileExtension": "IND",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "AOL address book index",
+    "Header": "41 4F 4C 49 4E 44 45 58",
+    "FileExtension": "ABI",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "AOL personal file cabinet",
+    "Header": "41 4F 4C 56 4D 31 30 30",
+    "FileExtension": "ORG|PFC",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "AVG6 Integrity database",
+    "Header": "41 56 47 36 5F 49 6E 74",
+    "FileExtension": "DAT",
+    "FileClass": "Database",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "RIFF Windows Audio",
+    "Header": "41 56 49 20 4C 49 53 54",
+    "FileExtension": "AVI",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "8",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "FreeArc compressed file",
+    "Header": "41 72 43 01",
+    "FileExtension": "ARC",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "NTFS MFT (BAAD)",
+    "Header": "42 41 41 44",
+    "FileExtension": null,
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Google Chrome dictionary file",
+    "Header": "42 44 69 63",
+    "FileExtension": "BDIC",
+    "FileClass": "System",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "vCard",
+    "Header": "42 45 47 49 4E 3A 56 43",
+    "FileExtension": "VCF",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Speedtouch router firmware",
+    "Header": "42 4C 49 32 32 33",
+    "FileExtension": "BIN|BLI|RBI",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Bitmap image",
+    "Header": "42 4D",
+    "FileExtension": "BMP|DIB",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Palmpilot resource file",
+    "Header": "42 4F 4F 4B 4D 4F 42 49",
+    "FileExtension": "PRC",
+    "FileClass": "Mobile",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Better Portable Graphics",
+    "Header": "42 50 47 FB",
+    "FileExtension": "BPG",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "bzip2 compressed archive",
+    "Header": "42 5A 68",
+    "FileExtension": "BZ2|TAR|BZ2|TBZ2|TB2",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Mac Disk image (BZ2 compressed)",
+    "Header": "42 5A 68",
+    "FileExtension": "DMG",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Puffer ASCII encrypted archive",
+    "Header": "42 65 67 69 6E 20 50 75 66 66 65 72",
+    "FileExtension": "APUF",
+    "FileClass": "Encryption",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Blink compressed archive",
+    "Header": "42 6C 69 6E 6B",
+    "FileExtension": "BLI",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "RagTime document",
+    "Header": "43 23 2B 44 A4 43 4D A5",
+    "FileExtension": "RTD",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "EA Interchange Format File (IFF)_3",
+    "Header": "43 41 54 20",
+    "FileExtension": "IFF",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": ""
+    },
+    {
+    "FileDescription": "WordPerfect dictionary",
+    "Header": "43 42 46 49 4C 45",
+    "FileExtension": "CBD",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "ISO-9660 CD Disc Image",
+    "Header": "43 44 30 30 31",
+    "FileExtension": "ISO",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "RIFF CD audio",
+    "Header": "43 44 44 41 66 6D 74 20",
+    "FileExtension": "CDA",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "8",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Compressed ISO CD image",
+    "Header": "43 49 53 4F",
+    "FileExtension": "CSO",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows 7 thumbnail",
+    "Header": "43 4D 4D 4D 15 00 00 00",
+    "FileExtension": "DB",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Corel Binary metafile",
+    "Header": "43 4D 58 31",
+    "FileExtension": "CLB",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "COM+ Catalog",
+    "Header": "43 4F 4D 2B",
+    "FileExtension": "CLB",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "VMware 3 Virtual Disk",
+    "Header": "43 4F 57 44",
+    "FileExtension": "VMDK",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Corel Photopaint file_1",
+    "Header": "43 50 54 37 46 49 4C 45",
+    "FileExtension": "CPT",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Corel Photopaint file_2",
+    "Header": "43 50 54 46 49 4C 45",
+    "FileExtension": "CPT",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Win9x registry hive",
+    "Header": "43 52 45 47",
+    "FileExtension": "DAT",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Crush compressed archive",
+    "Header": "43 52 55 53 48 20 76",
+    "FileExtension": "CRU",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Shockwave Flash file",
+    "Header": "43 57 53",
+    "FileExtension": "SWF",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Calculux Indoor lighting project file",
+    "Header": "43 61 6C 63 75 6C 75 78 20 49 6E 64 6F 6F 72 20",
+    "FileExtension": "CIN",
+    "FileClass": "Application",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "WhereIsIt Catalog",
+    "Header": "43 61 74 61 6C 6F 67 20",
+    "FileExtension": "CTF",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "IE History file",
+    "Header": "43 6C 69 65 6E 74 20 55",
+    "FileExtension": "DAT",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Google Chrome Extension",
+    "Header": "43 72 32 34",
+    "FileExtension": "CRX",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Google Chromium patch update",
+    "Header": "43 72 4F 44",
+    "FileExtension": "CRX",
+    "FileClass": "System",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Creative Voice",
+    "Header": "43 72 65 61 74 69 76 65 20 56 6F 69 63 65 20 46",
+    "FileExtension": "VOC",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PowerISO Direct-Access-Archive image",
+    "Header": "44 41 41 00 00 00 00 00",
+    "FileExtension": "DAA",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "DAX Compressed CD image",
+    "Header": "44 41 58 00",
+    "FileExtension": "DAX",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Palm Zire photo database",
+    "Header": "44 42 46 48",
+    "FileExtension": "DB",
+    "FileClass": "Mobile",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Amiga DiskMasher compressed archive",
+    "Header": "44 4D 53 21",
+    "FileExtension": "DMS",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Amiga disk file",
+    "Header": "44 4F 53",
+    "FileExtension": "ADF",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "DST Compression",
+    "Header": "44 53 54 62",
+    "FileExtension": "DST",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "DVR-Studio stream file",
+    "Header": "44 56 44",
+    "FileExtension": "DVR",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "DVD info file",
+    "Header": "44 56 44",
+    "FileExtension": "IFO",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Elite Plus Commander game file",
+    "Header": "45 4C 49 54 45 20 43 6F",
+    "FileExtension": "CDR",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "VideoVCD-VCDImager file",
+    "Header": "45 4E 54 52 59 56 43 44",
+    "FileExtension": "VCD",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Apple ISO 9660-HFS hybrid CD image",
+    "Header": "45 52 02 00 00",
+    "FileExtension": "ISO",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "EasyRecovery Saved State file",
+    "Header": "45 52 46 53 53 41 56 45",
+    "FileExtension": "DAT",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "DSD Storage Facility audio file",
+    "Header": "44 53 44 20",
+    "FileExtension": "DSF",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS Document Imaging file",
+    "Header": "45 50",
+    "FileExtension": "MDI",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Expert Witness Compression Format",
+    "Header": "45 56 46 09 0D 0A FF 00",
+    "FileExtension": "E01",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "EnCase Evidence File Format V2",
+    "Header": "45 56 46 32 0D 0A 81",
+    "FileExtension": "Ex01",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows Vista event log",
+    "Header": "45 6C 66 46 69 6C 65 00",
+    "FileExtension": "EVTX",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "QuickBooks backup",
+    "Header": "45 86 00 00 06 00",
+    "FileExtension": "QBB",
+    "FileClass": "Finance",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS Fax Cover Sheet",
+    "Header": "46 41 58 43 4F 56 45 52",
+    "FileExtension": "CPE",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Fiasco database definition file",
+    "Header": "46 44 42 48 00",
+    "FileExtension": "FDB",
+    "FileClass": "Database",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "NTFS MFT (FILE)",
+    "Header": "46 49 4C 45",
+    "FileExtension": null,
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Flash video file",
+    "Header": "46 4C 56",
+    "FileExtension": "FLV",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "IFF ANIM file",
+    "Header": "46 4F 52 4D",
+    "FileExtension": "ANM",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "EA Interchange Format File (IFF)_1",
+    "Header": "46 4F 52 4D",
+    "FileExtension": "IFF",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Audio Interchange File",
+    "Header": "46 4F 52 4D 00",
+    "FileExtension": "AIFF",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "DAKX Compressed Audio",
+    "Header": "46 4F 52 4D 00",
+    "FileExtension": "DAX",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Shockwave Flash player",
+    "Header": "46 57 53",
+    "FileExtension": "SWF",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Generic e-mail_2",
+    "Header": "46 72 6F 6D",
+    "FileExtension": "EML",
+    "FileClass": "Email",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "GIF file",
+    "Header": "47 49 46 38",
+    "FileExtension": "GIF",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": "00 3B"
+    },
+    {
+    "FileDescription": "GIMP pattern file",
+    "Header": "47 50 41 54",
+    "FileExtension": "PAT",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "General Regularly-distributed Information (GRIdded) Binary",
+    "Header": "47 52 49 42",
+    "FileExtension": "GRB",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Show Partner graphics file",
+    "Header": "47 58 32",
+    "FileExtension": "GX2",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Genetec video archive",
+    "Header": "47 65 6E 65 74 65 63 20 4F 6D 6E 69 63 61 73 74",
+    "FileExtension": "G64",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "SAP PowerBuilder integrated development environment file",
+    "Header": "48 44 52 2A 50 6F 77 65 72 42 75 69 6C 64 65 72",
+    "FileExtension": "PBD",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "SAS Transport dataset",
+    "Header": "48 45 41 44 45 52 20 52 45 43 4F 52 44 2A 2A 2A",
+    "FileExtension": "XPT",
+    "FileClass": "Statistics",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Harvard Graphics presentation file",
+    "Header": "48 48 47 42 31",
+    "FileExtension": "SH3",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "TIFF file_1",
+    "Header": "49 20 49",
+    "FileExtension": "TIF|TIFF",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MP3 audio file",
+    "Header": "49 44 33",
+    "FileExtension": "MP3",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Sprint Music Store audio",
+    "Header": "49 44 33 03 00 00 00",
+    "FileExtension": "KOZ",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Canon RAW file",
+    "Header": "49 49 1A 00 00 00 48 45",
+    "FileExtension": "CRW",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "TIFF file_2",
+    "Header": "49 49 2A 00",
+    "FileExtension": "TIF|TIFF",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows 7 thumbnail_2",
+    "Header": "49 4D 4D 4D 15 00 00 00",
+    "FileExtension": "DB",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Install Shield compressed file",
+    "Header": "49 53 63 28",
+    "FileExtension": "CAB|HDR",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS Reader eBook",
+    "Header": "49 54 4F 4C 49 54 4C 53",
+    "FileExtension": "LIT",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS Compiled HTML Help File",
+    "Header": "49 54 53 46",
+    "FileExtension": "CHI|CHM",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Inno Setup Uninstall Log",
+    "Header": "49 6E 6E 6F 20 53 65 74",
+    "FileExtension": "DAT",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Inter@ctive Pager Backup (BlackBerry file",
+    "Header": " 49 6E 74 65 72 40 63 74 69 76 65 20 50 61 67 65",
+    "FileExtension": "IPD",
+    "FileClass": "Mobile",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "JARCS compressed archive",
+    "Header": "4A 41 52 43 53 00",
+    "FileExtension": "JAR",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "AOL ART file_1",
+    "Header": "4A 47 03 0E",
+    "FileExtension": "JG",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": "D0 CB 00 00"
+    },
+    {
+    "FileDescription": "AOL ART file_2",
+    "Header": "4A 47 04 0E",
+    "FileExtension": "JG",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": "CF C7 CB"
+    },
+    {
+    "FileDescription": "VMware 4 Virtual Disk",
+    "Header": "4B 44 4D",
+    "FileExtension": "VMDK",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "KGB archive",
+    "Header": "4B 47 42 5F 61 72 63 68",
+    "FileExtension": "KGB",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Win9x printer spool file",
+    "Header": "4B 49 00 00",
+    "FileExtension": "SHD",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "KWAJ (compressed) file",
+    "Header": "4B 57 41 4A 88 F0 27 D1",
+    "FileExtension": null,
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows shortcut file",
+    "Header": "4C 00 00 00 01 14 02 00",
+    "FileExtension": "LNK",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS COFF relocatable object code",
+    "Header": "4C 01",
+    "FileExtension": "OBJ",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Tajima emboridery",
+    "Header": "4C 41 3A",
+    "FileExtension": "DST",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows help file_3",
+    "Header": "4C 4E 02 00",
+    "FileExtension": "GID|HLP",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "EA Interchange Format File (IFF)_2",
+    "Header": "4C 49 53 54",
+    "FileExtension": "IFF",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "DeluxePaint Animation",
+    "Header": "4C 50 46 20 00 01",
+    "FileExtension": "ANM",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Logical File Evidence Format",
+    "Header": "4C 56 46 09 0D 0A FF 00",
+    "FileExtension": "E01",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Merriam-Webster Pocket Dictionary",
+    "Header": "4D 2D 57 20 50 6F 63 6B",
+    "FileExtension": "PDB",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Mozilla archive",
+    "Header": "4D 41 52 31 00",
+    "FileExtension": "MAR",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Microsoft-MSN MARC archive",
+    "Header": "4D 41 52 43",
+    "FileExtension": "MAR",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MATLAB v5 workspace",
+    "Header": "4D 41 54 4C 41 42 20 35 2E 30 20 4D 41 54 2D 66 69 6C 65",
+    "FileExtension": "MAT",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": ""
+    },
+    {
+    "FileDescription": "MAr compressed archive",
+    "Header": "4D 41 72 30 00",
+    "FileExtension": "MAR",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "TargetExpress target file",
+    "Header": "4D 43 57 20 54 65 63 68 6E 6F 67 6F 6C 69 65 73",
+    "FileExtension": "MTE",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows dump file",
+    "Header": "4D 44 4D 50 93 A7",
+    "FileExtension": "DMP|HDMP",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Milestones project management file",
+    "Header": "4D 49 4C 45 53",
+    "FileExtension": "MLS",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Skype localization data file",
+    "Header": "4D 4C 53 57",
+    "FileExtension": "MLS",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "TIFF file_3",
+    "Header": "4D 4D 00 2A",
+    "FileExtension": "TIF|TIFF",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "TIFF file_4",
+    "Header": "4D 4D 00 2B",
+    "FileExtension": "TIF|TIFF",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Yamaha Synthetic music Mobile Application Format",
+    "Header": "4D 4D 4D 44 00 00",
+    "FileExtension": "MMF",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "VMware BIOS state file",
+    "Header": "4D 52 56 4E",
+    "FileExtension": "NVRAM",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Microsoft cabinet file",
+    "Header": "4D 53 43 46",
+    "FileExtension": "CAB",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "OneNote Package",
+    "Header": "4D 53 43 46",
+    "FileExtension": "ONEPKG",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Powerpoint Packaged Presentation",
+    "Header": "4D 53 43 46",
+    "FileExtension": "PPZ",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS Access Snapshot Viewer file",
+    "Header": "4D 53 43 46",
+    "FileExtension": "SNP",
+    "FileClass": "Database",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "OLE-SPSS-Visual C++ library file",
+    "Header": "4D 53 46 54 02 00 01 00",
+    "FileExtension": "TLB",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Health Level-7 data (pipe delimited) file",
+    "Header": "D 53 48 7C 5E 7E 5C 26 7C",
+    "FileExtension": "HL7",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Microsoft Windows Imaging Format",
+    "Header": "4D 53 57 49 4D",
+    "FileExtension": "WIM",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Sony Compressed Voice File",
+    "Header": "4D 53 5F 56 4F 49 43 45",
+    "FileExtension": "CDR|DVF|MSV",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MIDI sound file",
+    "Header": "4D 54 68 64",
+    "FileExtension": "MID|MIDI",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Yamaha Piano",
+    "Header": "4D 54 68 64",
+    "FileExtension": "PCS",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "CD Stomper Pro label file",
+    "Header": "4D 56",
+    "FileExtension": "DSN",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Milestones project management file_1",
+    "Header": "4D 56 32 31 34",
+    "FileExtension": "MLS",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Milestones project management file_2",
+    "Header": "4D 56 32 43",
+    "FileExtension": "MLS",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows-DOS executable file",
+    "Header": "4D 5A",
+    "FileExtension": "COM|DLL|DRV|EXE|PIF|QTS|QTX|SYS",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS audio compression manager driver",
+    "Header": "4D 5A",
+    "FileExtension": "ACM",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Library cache file",
+    "Header": "4D 5A",
+    "FileExtension": "AX",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Control panel application",
+    "Header": "4D 5A",
+    "FileExtension": "CPL",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Font file",
+    "Header": "4D 5A",
+    "FileExtension": "FON",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "ActiveX-OLE Custom Control",
+    "Header": "4D 5A",
+    "FileExtension": "OCX",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "OLE object library",
+    "Header": "4D 5A",
+    "FileExtension": "OLB",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Screen saver",
+    "Header": "4D 5A",
+    "FileExtension": "SCR",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "VisualBASIC application",
+    "Header": "4D 5A",
+    "FileExtension": "VBX",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows virtual device drivers",
+    "Header": "4D 5A",
+    "FileExtension": "VXD|386",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Acrobat plug-in",
+    "Header": "4D 5A 90 00 03 00 00 00",
+    "FileExtension": "API",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "DirectShow filter",
+    "Header": "4D 5A 90 00 03 00 00 00",
+    "FileExtension": "AX",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Audition graphic filter",
+    "Header": "4D 5A 90 00 03 00 00 00",
+    "FileExtension": "FLT",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "ZoneAlam data file",
+    "Header": "4D 5A 90 00 03 00 00 00 04 00 00 00 FF FF",
+    "FileExtension": "ZAP",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS C++ debugging symbols file",
+    "Header": "4D 69 63 72 6F 73 6F 66 74 20 43 2F 43 2B 2B 20",
+    "FileExtension": "PDB",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Visual Studio .NET file",
+    "Header": "4D 69 63 72 6F 73 6F 66 74 20 56 69 73 75 61 6C",
+    "FileExtension": "SLN",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows Media Player playlist",
+    "Header": "4D 69 63 72 6F 73 6F 66 74 20 57 69 6E 64 6F 77 73 20 4D 65 64 69 61 20 50 6C 61 79 65 72 20 2D 2D 20",
+    "FileExtension": "WPL",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "84",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "VMapSource GPS Waypoint Database",
+    "Header": "4D 73 52 63 66",
+    "FileExtension": "GDB",
+    "FileClass": "Navigation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "TomTom traffic data",
+    "Header": "4E 41 56 54 52 41 46 46",
+    "FileExtension": "DAT",
+    "FileClass": "Navigation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS Windows journal",
+    "Header": "4E 42 2A 00",
+    "FileExtension": "JNT|JTP",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "NES Sound file",
+    "Header": "4E 45 53 4D 1A 01",
+    "FileExtension": "NSF",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "National Imagery Transmission Format file",
+    "Header": "4E 49 54 46 30",
+    "FileExtension": "NTF",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Agent newsreader character map",
+    "Header": "4E 61 6D 65 3A 20",
+    "FileExtension": "COD",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "1Password 4 Cloud Keychain",
+    "Header": "4F 50 43 4C 44 41 54",
+    "FileExtension": "attachment",
+    "FileClass": "Encryption",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Psion Series 3 Database",
+    "Header": "4F 50 4C 44 61 74 61 62",
+    "FileExtension": "DBF",
+    "FileClass": "Database",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "OpenType font",
+    "Header": "4F 54 54 4F 00",
+    "FileExtension": "OTF",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Ogg Vorbis Codec compressed file",
+    "Header": "4F 67 67 53 00 02 00 00",
+    "FileExtension": "OGA|OGG|OGV|OGX",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Visio-DisplayWrite 4 text file",
+    "Header": "4F 7B",
+    "FileExtension": "DW4",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Quicken QuickFinder Information File",
+    "Header": "50 00 00 00 20 00 00 00",
+    "FileExtension": "IDX",
+    "FileClass": "Finance",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Portable Graymap Graphic",
+    "Header": "50 35 0A",
+    "FileExtension": "PGM",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Quake archive file",
+    "Header": "50 41 43 4B",
+    "FileExtension": "PAK",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows memory dump",
+    "Header": "50 41 47 45 44 55",
+    "FileExtension": "DMP",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PAX password protected bitmap",
+    "Header": "50 41 58",
+    "FileExtension": "PAX",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PestPatrol data-scan strings",
+    "Header": "50 45 53 54",
+    "FileExtension": "DAT",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PGP disk image",
+    "Header": "50 47 50 64 4D 41 49 4E",
+    "FileExtension": "PGD",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "ChromaGraph Graphics Card Bitmap",
+    "Header": "50 49 43 54 00 08",
+    "FileExtension": "IMG",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PKZIP archive_1",
+    "Header": "50 4B 03 04",
+    "FileExtension": "ZIP",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": "50 4B ????????????????? 00 00 00"
+    },
+    {
+    "FileDescription": "Android package",
+    "Header": "50 4B 03 04",
+    "FileExtension": "APK",
+    "FileClass": "Mobile",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MacOS X Dashboard Widget",
+    "Header": "50 4B 03 04",
+    "FileExtension": "ZIP",
+    "FileClass": "MacOS",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS Office Open XML Format Document",
+    "Header": "50 4B 03 04",
+    "FileExtension": "DOCX|PPTX|XLSX",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Java archive_1",
+    "Header": "50 4B 03 04",
+    "FileExtension": "JAR",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Google Earth session file",
+    "Header": "50 4B 03 04",
+    "FileExtension": "KMZ",
+    "FileClass": "Navigation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "KWord document",
+    "Header": "50 4B 03 04",
+    "FileExtension": "KWD",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "OpenDocument template",
+    "Header": "50 4B 03 04",
+    "FileExtension": "ODT|ODP|OTT",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Microsoft Open XML paper specification",
+    "Header": "50 4B 03 04",
+    "FileExtension": "OXPS",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "OpenOffice documents",
+    "Header": "50 4B 03 04",
+    "FileExtension": "SXC|SXD|SXI|SXW",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "StarOffice spreadsheet",
+    "Header": "50 4B 03 04",
+    "FileExtension": "SXC",
+    "FileClass": "Spreadsheet",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows Media compressed skin file",
+    "Header": "50 4B 03 04",
+    "FileExtension": "WMZ",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Mozilla Browser Archive",
+    "Header": "50 4B 03 04",
+    "FileExtension": "XPI",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "XML paper specification file",
+    "Header": "50 4B 03 04",
+    "FileExtension": "XPS",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "eXact Packager Models",
+    "Header": "50 4B 03 04",
+    "FileExtension": "XPT",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Open Publication Structure eBook",
+    "Header": "50 4B 03 04 0A 00 02 00",
+    "FileExtension": "EPUB",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "ZLock Pro encrypted ZIP",
+    "Header": "50 4B 03 04 14 00 01 00",
+    "FileExtension": "ZIP",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS Office 2007 documents",
+    "Header": "50 4B 03 04 14 00 06 00",
+    "FileExtension": "DOCX|PPTX|XLSX",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Java archive_2",
+    "Header": "50 4B 03 04 14 00 08 00",
+    "FileExtension": "JAR",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PKZIP archive_2",
+    "Header": "50 4B 05 06",
+    "FileExtension": "ZIP",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PKZIP archive_3",
+    "Header": "50 4B 07 08",
+    "FileExtension": "ZIP",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PKLITE archive",
+    "Header": "50 4B 4C 49 54 45",
+    "FileExtension": "ZIP",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "30",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PKSFX self-extracting archive",
+    "Header": "50 4B 53 70 58",
+    "FileExtension": "ZIP",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "526",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows Program Manager group file",
+    "Header": "50 4D 43 43",
+    "FileExtension": "GRP",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Norton Disk Doctor undo file",
+    "Header": "50 4E 43 49 55 4E 44 4F",
+    "FileExtension": "DAT",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Microsoft Windows User State Migration Tool",
+    "Header": "50 4D 4F 43 43 4D 4F 43",
+    "FileExtension": "PMOCCMOC",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Dreamcast Sound Format",
+    "Header": "50 53 46 12",
+    "FileExtension": "DSF",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Puffer encrypted archive",
+    "Header": "50 55 46 58",
+    "FileExtension": "PUF",
+    "FileClass": "Encryption",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Parrot Video Encapsulation",
+    "Header": "50 61 56 45",
+    "FileExtension": null,
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Quicken data",
+    "Header": "51 45 4C 20",
+    "FileExtension": "QEL",
+    "FileClass": "Finance",
+    "HeaderOffset": "92",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Qcow Disk Image",
+    "Header": "51 46 49",
+    "FileExtension": "QEMU",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "RIFF Qualcomm PureVoice",
+    "Header": "51 4C 43 4D 66 6D 74 20",
+    "FileExtension": "QCP",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "8",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Quicken data file",
+    "Header": "51 57 20 56 65 72 2E 20",
+    "FileExtension": "ABD|QSD",
+    "FileClass": "Finance",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Outlook-Exchange message subheader",
+    "Header": "52 00 6F 00 6F 00 74 00 20 00 45 00 6E 00 74 00 72 00 79 00",
+    "FileExtension": "MSG",
+    "FileClass": "Email",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Shareaza (P2P) thumbnail",
+    "Header": "52 41 5A 41 54 44 42 31",
+    "FileExtension": "DAT",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "R saved work space",
+    "Header": "52 44 58 32 0A",
+    "FileExtension": "RDATA",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "WinNT Registry-Registry Undo files",
+    "Header": "52 45 47 45 44 49 54",
+    "FileExtension": "REG|SUD",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Antenna data file",
+    "Header": "52 45 56 4E 55 4D 3A 2C",
+    "FileExtension": "AD",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows animated cursor",
+    "Header": "52 49 46 46",
+    "FileExtension": "ANI",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Corel Presentation Exchange metadata",
+    "Header": "52 49 46 46",
+    "FileExtension": "CMX",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "CorelDraw document",
+    "Header": "52 49 46 46",
+    "FileExtension": "CDR",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Video CD MPEG movie",
+    "Header": "52 49 46 46",
+    "FileExtension": "DAT",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Micrografx Designer graphic",
+    "Header": "52 49 46 46",
+    "FileExtension": "DS4",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "4X Movie video",
+    "Header": "52 49 46 46",
+    "FileExtension": "4XM",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Resource Interchange File Format",
+    "Header": "52 49 46 46",
+    "FileExtension": "AVI|CDA|QCP|RMI|WAV|WEBP",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "RIFF Windows MIDI",
+    "Header": "52 4D 49 44 64 61 74 61",
+    "FileExtension": "RMI",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "8",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "WinNT Netmon capture file",
+    "Header": "52 54 53 53",
+    "FileExtension": "CAP",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "WinRAR compressed archive",
+    "Header": "52 61 72 21 1A 07 00",
+    "FileExtension": "RAR",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Generic e-mail_1",
+    "Header": "52 65 74 75 72 6E 2D 50",
+    "FileExtension": "EML",
+    "FileClass": "Email",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows prefetch",
+    "Header": "53 43 43 41",
+    "FileExtension": "PF",
+    "FileClass": "Windows",
+    "HeaderOffset": "4",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Underground Audio",
+    "Header": "53 43 48 6C",
+    "FileExtension": "AST",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Img Software Bitmap",
+    "Header": "53 43 4D 49",
+    "FileExtension": "IMG",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "SMPTE DPX (big endian)",
+    "Header": "53 44 50 58",
+    "FileExtension": "SDPX",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Harvard Graphics presentation",
+    "Header": "53 48 4F 57",
+    "FileExtension": "SHW",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Sietronics CPI XRD document",
+    "Header": "53 49 45 54 52 4F 4E 49",
+    "FileExtension": "CPI",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Flexible Image Transport System (FITS) file",
+    "Header": "53 49 4D 50 4C 45 20 20 3D 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 54",
+    "FileExtension": "FITS",
+    "FileClass": "multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "StuffIt archive",
+    "Header": "53 49 54 21 00",
+    "FileExtension": "SIT",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "SmartDraw Drawing file",
+    "Header": "53 4D 41 52 54 44 52 57",
+    "FileExtension": "SDR",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "StorageCraft ShadownProtect backup file",
+    "Header": "53 50 46 49 00",
+    "FileExtension": "SPF",
+    "FileClass": "Backup",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MultiBit Bitcoin blockchain file",
+    "Header": "53 50 56 42",
+    "FileExtension": "SPVB",
+    "FileClass": "e-money",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "SQLite database file",
+    "Header": "53 51 4C 69 74 65 20 66 6F 72 6D 61 74 20 33 00",
+    "FileExtension": "DB",
+    "FileClass": "Database",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "DB2 conversion file",
+    "Header": "53 51 4C 4F 43 4F 4E 56",
+    "FileExtension": "CNV",
+    "FileClass": "Database",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "QBASIC SZDD file",
+    "Header": "53 5A 20 88 F0 27 33 D1",
+    "FileExtension": null,
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "SZDD file format",
+    "Header": "53 5A 44 44 88 F0 27 33",
+    "FileExtension": null,
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "StuffIt compressed archive",
+    "Header": "53 74 75 66 66 49 74 20",
+    "FileExtension": "SIT",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "SuperCalc worksheet",
+    "Header": "53 75 70 65 72 43 61 6C",
+    "FileExtension": "CAL",
+    "FileClass": "Spreadsheet",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Wii-GameCube",
+    "Header": "54 48 50 00",
+    "FileExtension": "THP",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "GNU Info Reader file",
+    "Header": "54 68 69 73 20 69 73 20",
+    "FileExtension": "INFO",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Unicode extensions",
+    "Header": "55 43 45 58",
+    "FileExtension": "UCE",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "UFA compressed archive",
+    "Header": "55 46 41 C6 D2 C1",
+    "FileExtension": "UFA",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "UFO Capture map file",
+    "Header": "55 46 4F 4F 72 62 69 74",
+    "FileExtension": "DAT",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Visual C PreCompiled header",
+    "Header": "56 43 50 43 48 30",
+    "FileExtension": "PCH",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Visual Basic User-defined Control file",
+    "Header": "56 45 52 53 49 4F 4E 20",
+    "FileExtension": "CTL",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MapInfo Interchange Format file",
+    "Header": "56 65 72 73 69 6F 6E 20",
+    "FileExtension": "MIF",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "SPSS template",
+    "Header": "57 04 00 00 53 50 53 53 20 74 65 6D 70 6C 61 74",
+    "FileExtension": "SCT",
+    "FileClass": "Statistics",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "RIFF Windows Audio",
+    "Header": "57 41 56 45 66 6D 74 20",
+    "FileExtension": "WAV",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "8",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "RIFF WebP",
+    "Header": "57 45 42 50",
+    "FileExtension": "WEBP",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "8",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Walkman MP3 file",
+    "Header": "57 4D 4D 50",
+    "FileExtension": "DAT",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "WordStar for Windows file",
+    "Header": "57 53 32 30 30 30",
+    "FileExtension": "WS2",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "WinZip compressed archive",
+    "Header": "57 69 6E 5A 69 70",
+    "FileExtension": "ZIP",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "29152",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Lotus WordPro file",
+    "Header": "57 6F 72 64 50 72 6F",
+    "FileExtension": "LWP",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Exchange e-mail",
+    "Header": "58 2D",
+    "FileExtension": "EML",
+    "FileClass": "Email",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Packet sniffer files",
+    "Header": "58 43 50 00",
+    "FileExtension": "CAP",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "XPCOM libraries",
+    "Header": "58 50 43 4F 4D 0A 54 79",
+    "FileExtension": "XPT",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "SMPTE DPX file (little endian)",
+    "Header": "58 50 44 53",
+    "FileExtension": "DPX",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS Publisher",
+    "Header": "58 54",
+    "FileExtension": "BDR",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "ZOO compressed archive",
+    "Header": "5A 4F 4F 20",
+    "FileExtension": "ZOO",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Macromedia Shockwave Flash",
+    "Header": "5A 57 53",
+    "FileExtension": "SWF",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS Exchange configuration file",
+    "Header": "5B 47 65 6E 65 72 61 6C",
+    "FileExtension": "ECF",
+    "FileClass": "Email",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Visual C++ Workbench Info File",
+    "Header": "5B 4D 53 56 43",
+    "FileExtension": "VCW",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Dial-up networking file",
+    "Header": "5B 50 68 6F 6E 65 5D",
+    "FileExtension": "DUN",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Lotus AMI Pro document_1",
+    "Header": "5B 56 45 52 5D",
+    "FileExtension": "SAM",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "VocalTec VoIP media file",
+    "Header": "5B 56 4D 44 5D",
+    "FileExtension": "VMD",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Microsoft Code Page Translation file",
+    "Header": "5B 57 69 6E 64 6F 77 73",
+    "FileExtension": "CPX",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Flight Simulator Aircraft Configuration",
+    "Header": "5B 66 6C 74 73 69 6D 2E",
+    "FileExtension": "CFG",
+    "FileClass": "Games",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "WinAmp Playlist",
+    "Header": "5B 70 6C 61 79 6C 69 73 74 5D",
+    "FileExtension": "PLS",
+    "FileClass": "Audio",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Lotus AMI Pro document_2",
+    "Header": "5B 76 65 72 5D",
+    "FileExtension": "SAM",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Husqvarna Designer",
+    "Header": "5D FC C8 00",
+    "FileExtension": "HUS",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Jar archive",
+    "Header": "5F 27 A8 89",
+    "FileExtension": "JAR",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "EnCase case file",
+    "Header": "5F 43 41 53 45 5F",
+    "FileExtension": "CAS|CBK",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Compressed archive file",
+    "Header": "60 EA",
+    "FileExtension": "ARJ",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "UUencoded file",
+    "Header": "62 65 67 69 6E",
+    "FileExtension": null,
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "UUencoded BASE64 file",
+    "Header": "62 65 67 69 6E 2D 62 61 73 65 36 34",
+    "FileExtension": "b64",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": "0A 3D 3D 3D 3D 0A"
+    },
+    {
+    "FileDescription": "Binary property list (plist)",
+    "Header": "62 70 6C 69 73 74",
+    "FileExtension": null,
+    "FileClass": "System",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Apple Core Audio File",
+    "Header": "63 61 66 66",
+    "FileExtension": "CAF",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Macintosh encrypted Disk image (v1)",
+    "Header": "63 64 73 61 65 6E 63 72",
+    "FileExtension": "DMG",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Virtual PC HD image",
+    "Header": "63 6F 6E 65 63 74 69 78",
+    "FileExtension": "VHD",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Photoshop Custom Shape",
+    "Header": "63 75 73 68 00 00 00 02",
+    "FileExtension": "CSH",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Intel PROset-Wireless Profile",
+    "Header": "64 00 00 00",
+    "FileExtension": "P10",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Torrent file",
+    "Header": "64 38 3A 61 6E 6E 6F 75 6E 63 65",
+    "FileExtension": "TORRENT",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Dalvik (Android) executable file",
+    "Header": "64 65 78 0A",
+    "FileExtension": "dex",
+    "FileClass": "Mobile",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Audacity audio file",
+    "Header": "64 6E 73 2E",
+    "FileExtension": "AU",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS Visual Studio workspace file",
+    "Header": "64 73 77 66 69 6C 65",
+    "FileExtension": "DSW",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Macintosh encrypted Disk image (v2)",
+    "Header": "65 6E 63 72 63 64 73 61",
+    "FileExtension": "DMG",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "WinNT printer spool file",
+    "Header": "66 49 00 00",
+    "FileExtension": "SHD",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Free Lossless Audio Codec file",
+    "Header": "66 4C 61 43 00 00 00 22",
+    "FileExtension": "FLAC",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MPEG-4 video file_1",
+    "Header": "66 74 79 70 33 67 70 35",
+    "FileExtension": "MP4",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "4",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Apple Lossless Audio Codec file",
+    "Header": "66 74 79 70 4D 34 41 20",
+    "FileExtension": "M4A",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "4",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "ISO Media-MPEG v4-iTunes AVC-LC",
+    "Header": "66 74 79 70 4D 34 56 20",
+    "FileExtension": "FLV|M4V",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "4",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MPEG-4 video file_2",
+    "Header": "66 74 79 70 4D 53 4E 56",
+    "FileExtension": "MP4",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "4",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "ISO Base Media file (MPEG-4) v1",
+    "Header": "66 74 79 70 69 73 6F 6D",
+    "FileExtension": "MP4",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "4",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MPEG-4 video-QuickTime file",
+    "Header": "66 74 79 70 6D 70 34 32",
+    "FileExtension": "M4V",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "4",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "QuickTime movie_7",
+    "Header": "66 74 79 70 71 74 20 20",
+    "FileExtension": "MOV",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "4",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Win2000-XP printer spool file",
+    "Header": "67 49 00 00",
+    "FileExtension": "SHD",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "GIMP file",
+    "Header": "67 69 6d 70 20 78 63 66",
+    "FileExtension": "XCF",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Win Server 2003 printer spool file",
+    "Header": "68 49 00 00",
+    "FileExtension": "SHD",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MacOS icon file",
+    "Header": "69 63 6E 73",
+    "FileExtension": "ICNS",
+    "FileClass": "System",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Skype user data file",
+    "Header": "6C 33 33 6C",
+    "FileExtension": "DBB",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "QuickTime movie_1",
+    "Header": "6D 6F 6F 76",
+    "FileExtension": "MOV",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "4",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "QuickTime movie_2",
+    "Header": "66 72 65 65",
+    "FileExtension": "MOV",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "4",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "QuickTime movie_3",
+    "Header": "6D 64 61 74",
+    "FileExtension": "MOV",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "4",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "QuickTime movie_4",
+    "Header": "77 69 64 65",
+    "FileExtension": "MOV",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "4",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "QuickTime movie_5",
+    "Header": "70 6E 6F 74",
+    "FileExtension": "MOV",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "4",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "QuickTime movie_6",
+    "Header": "73 6B 69 70",
+    "FileExtension": "MOV",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "4",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Internet Explorer v11 Tracking Protection List",
+    "Header": "6D 73 46 69 6C 74 65 72 4C 69 73 74",
+    "FileExtension": "TPL",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MultiBit Bitcoin wallet information",
+    "Header": "6D 75 6C 74 69 42 69 74 2E 69 6E 66 6F",
+    "FileExtension": "INFO",
+    "FileClass": "E-money",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "SMS text (SIM)",
+    "Header": "6F 3C",
+    "FileExtension": null,
+    "FileClass": "Mobile",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "1Password 4 Cloud Keychain encrypted data",
+    "Header": "6F 70 64 61 74 61 30 31",
+    "FileExtension": null,
+    "FileClass": "Encryption",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "WinNT registry file",
+    "Header": "72 65 67 66",
+    "FileExtension": "DAT",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Sonic Foundry Acid Music File",
+    "Header": "72 69 66 66",
+    "FileExtension": "AC",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "RealMedia metafile",
+    "Header": "72 74 73 70 3A 2F 2F",
+    "FileExtension": "RAM",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Allegro Generic Packfile (compressed)",
+    "Header": "73 6C 68 21",
+    "FileExtension": "DAT",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Allegro Generic Packfile (uncompressed)",
+    "Header": "73 6C 68 2E",
+    "FileExtension": "DAT",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PalmOS SuperMemo",
+    "Header": "73 6D 5F",
+    "FileExtension": "PDB",
+    "FileClass": "Mobile",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "STL (STereoLithography) file",
+    "Header": "73 6F 6C 69 64",
+    "FileExtension": "STL",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "CALS raster bitmap",
+    "Header": "73 72 63 64 6F 63 69 64",
+    "FileExtension": "CAL",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PowerBASIC Debugger Symbols",
+    "Header": "73 7A 65 7A",
+    "FileExtension": "PDB",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PathWay Map file",
+    "Header": "74 42 4D 50 4B 6E 57 72",
+    "FileExtension": "PRC",
+    "FileClass": "Mobile",
+    "HeaderOffset": "60",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "TrueType font",
+    "Header": "74 72 75 65 00",
+    "FileExtension": "TTF",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Tape Archive",
+    "Header": "75 73 74 61 72",
+    "FileExtension": "TAR",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "257",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "OpenEXR bitmap image",
+    "Header": "76 2F 31 01",
+    "FileExtension": "EXR",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Qimage filter",
+    "Header": "76 32 30 30 33 2E 31 30",
+    "FileExtension": "FLT",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MacOS X image file",
+    "Header": "78 01 73 0D 62 62 60",
+    "FileExtension": "DMG",
+    "FileClass": "MacOS",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "eXtensible ARchive file",
+    "Header": "78 61 72 21",
+    "FileExtension": "XAR",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "ZoomBrowser Image Index",
+    "Header": "7A 62 65 78",
+    "FileExtension": "INFO",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows application log",
+    "Header": "7B 0D 0A 6F 20",
+    "FileExtension": "LGC|LGD",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Google Drive Drawing link",
+    "Header": "7B 22 75 72 6C 22 3A 20 22 68 74 74 70 73 3A 2F",
+    "FileExtension": "GDRAW",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS WinMobile personal note",
+    "Header": "7B 5C 70 77 69",
+    "FileExtension": "PWI",
+    "FileClass": "Mobile",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Rich Text Format",
+    "Header": "7B 5C 72 74 66 31",
+    "FileExtension": "RTF",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": "5C 70 61 72 20 7D 7D"
+    },
+    {
+    "FileDescription": "Huskygram Poem or Singer embroidery",
+    "Header": "7C 4B C3 74 E1 C8 53 A4 79 B9 01 1D FC 4F DD 13",
+    "FileExtension": "CSD",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Corel Paint Shop Pro image",
+    "Header": "7E 42 4B 00",
+    "FileExtension": "PSP",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Easy Street Draw diagram file",
+    "Header": "7E 45 53 44 77 F6 85 3E BF 6A D2 11 45 61 73 79 20 53 74 72 65 65 74 20 44 72 61 77",
+    "FileExtension": "ESD",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Digital Watchdog DW-TP-500G audio",
+    "Header": "7E 74 2C 01 50 70 02 4D 52",
+    "FileExtension": "IMG",
+    "FileClass": "Audio",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "ELF executable",
+    "Header": "7F 45 4C 46",
+    "FileExtension": null,
+    "FileClass": "Linux-Unix",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Relocatable object code",
+    "Header": "80",
+    "FileExtension": "OBJ",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Dreamcast audio",
+    "Header": "80 00 00 20 03 12 04",
+    "FileExtension": "ADX",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Kodak Cineon image",
+    "Header": "80 2A 5F D7",
+    "FileExtension": "CIN",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Outlook Express address book (Win95)",
+    "Header": "81 32 84 C1 85 05 D0 11",
+    "FileExtension": "WAB",
+    "FileClass": "Email",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "WordPerfect text",
+    "Header": "81 CD AB",
+    "FileExtension": "WPF",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PNG image",
+    "Header": "89 50 4E 47 0D 0A 1A 0A",
+    "FileExtension": "PNG",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": "49 45 4E 44 AE 42 60 82"
+    },
+    {
+    "FileDescription": "MS Answer Wizard",
+    "Header": "8A 01 09 00 00 00 E1 08",
+    "FileExtension": "AW",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Hamarsoft compressed archive",
+    "Header": "91 33 48 46",
+    "FileExtension": "HAP",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PGP secret keyring_1",
+    "Header": "95 00",
+    "FileExtension": "SKR",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PGP secret keyring_2",
+    "Header": "95 01",
+    "FileExtension": "SKR",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "JBOG2 image file",
+    "Header": "97 4A 42 32 0D 0A 1A 0A",
+    "FileExtension": "JB2",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": "03 33 00 01 00 00 00 00"
+    },
+    {
+    "FileDescription": "GPG public keyring",
+    "Header": "99",
+    "FileExtension": "GPG",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PGP public keyring",
+    "Header": "99 01",
+    "FileExtension": "PKR",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Outlook address file",
+    "Header": "9C CB CB 8D 13 75 D2 11",
+    "FileExtension": "WAB",
+    "FileClass": "Email",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "tcpdump (libpcap) capture file",
+    "Header": "A1 B2 C3 D4",
+    "FileExtension": null,
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Extended tcpdump (libpcap) capture file",
+    "Header": "A1 B2 CD 34",
+    "FileExtension": null,
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Access Data FTK evidence",
+    "Header": "A9 0D 00 00 00 00 00 00",
+    "FileExtension": "DAT",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Khronos texture file",
+    "Header": "AB 4B 54 58 20 31 31 BB 0D 0A 1A 0A",
+    "FileExtension": "KTX",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Quicken data",
+    "Header": "AC 9E BD 8F 00 00",
+    "FileExtension": "QDF",
+    "FileClass": "Finance",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PowerPoint presentation subheader_3",
+    "Header": "A0 46 1D F0",
+    "FileExtension": "PPT",
+    "FileClass": "Presentation",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Java serialization data",
+    "Header": "AC ED",
+    "FileExtension": null,
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "BGBlitz position database file",
+    "Header": "AC ED 00 05 73 72 00 12",
+    "FileExtension": "PDB",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Win95 password file",
+    "Header": "B0 4D 46 43",
+    "FileExtension": "PWL",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PCX bitmap",
+    "Header": "B1 68 DE 3A",
+    "FileExtension": "DCX",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Acronis True Image_1",
+    "Header": "B4 6E 68 44",
+    "FileExtension": "TIB",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows calendar",
+    "Header": "B5 A2 B0 B3 B3 B0 A5 B5",
+    "FileExtension": "CAL",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "InstallShield Script",
+    "Header": "B8 C9 0C 00",
+    "FileExtension": "INS",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS Write file_3",
+    "Header": "BE 00 00 00 AB",
+    "FileExtension": "WRI",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Palm Desktop DateBook",
+    "Header": "BE BA FE CA 0F 50 61 6C 6D 53 47 20 44 61 74 61",
+    "FileExtension": "DAT",
+    "FileClass": "Mobile",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS Agent Character file",
+    "Header": "C3 AB CD AB",
+    "FileExtension": "ACS",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Adobe encapsulated PostScript",
+    "Header": "C5 D0 D3 C6",
+    "FileExtension": "EPS",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Jeppesen FliteLog file",
+    "Header": "C8 00 79 00",
+    "FileExtension": "LBK",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Java bytecode",
+    "Header": "CA FE BA BE",
+    "FileExtension": "CLASS",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Nokia phone backup file",
+    "Header": "CC 52 33 FC E9 2C 18 48 AF E3 36 30 1A 39 40 06",
+    "FileExtension": "NBU",
+    "FileClass": "Mobile",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "NAV quarantined virus file",
+    "Header": "CD 20 AA AA 02 00 00 00",
+    "FileExtension": null,
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Acronis True Image_2",
+    "Header": "CE 24 B9 A2 20 00 00 00",
+    "FileExtension": "TIB",
+    "FileClass": "Multimedia",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Java Cryptography Extension keystore",
+    "Header": "CE CE CE CE",
+    "FileExtension": "JCEKS",
+    "FileClass": "Encryption",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "OS X ABI Mach-O binary (32-bit reverse)",
+    "Header": "CE FA ED FE",
+    "FileExtension": null,
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Perfect Office document",
+    "Header": "CF 11 E0 A1 B1 1A E1 00",
+    "FileExtension": "DOC",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Outlook Express e-mail folder",
+    "Header": "CF AD 12 FE",
+    "FileExtension": "DBX",
+    "FileClass": "Email",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "OS X ABI Mach-O binary (64-bit reverse)",
+    "Header": "CF FA ED FE",
+    "FileExtension": null,
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Microsoft Office document",
+    "Header": "D0 CF 11 E0 A1 B1 1A E1",
+    "FileExtension": "DOC|DOT|PPS|PPT|XLA|XLS|WIZ",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "CaseWare Working Papers",
+    "Header": "D0 CF 11 E0 A1 B1 1A E1",
+    "FileExtension": "AC_",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Access project file",
+    "Header": "D0 CF 11 E0 A1 B1 1A E1",
+    "FileExtension": "ADP",
+    "FileClass": "Database",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Lotus-IBM Approach 97 file",
+    "Header": "D0 CF 11 E0 A1 B1 1A E1",
+    "FileExtension": "APR",
+    "FileClass": "Database",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MSWorks database file",
+    "Header": "D0 CF 11 E0 A1 B1 1A E1",
+    "FileExtension": "DB",
+    "FileClass": "Database",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Microsoft Common Console Document",
+    "Header": "D0 CF 11 E0 A1 B1 1A E1",
+    "FileExtension": "MSC",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Microsoft Installer package",
+    "Header": "D0 CF 11 E0 A1 B1 1A E1",
+    "FileExtension": "MSI",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Microsoft Installer Patch",
+    "Header": "D0 CF 11 E0 A1 B1 1A E1",
+    "FileExtension": "MSP",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Minitab data file",
+    "Header": "D0 CF 11 E0 A1 B1 1A E1",
+    "FileExtension": "MTW",
+    "FileClass": "Statistics",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "ArcMap GIS project file",
+    "Header": "D0 CF 11 E0 A1 B1 1A E1",
+    "FileExtension": "MXD",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Developer Studio File Options file",
+    "Header": "D0 CF 11 E0 A1 B1 1A E1",
+    "FileExtension": "OPT",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS Publisher file",
+    "Header": "D0 CF 11 E0 A1 B1 1A E1",
+    "FileExtension": "PUB",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Revit Project file",
+    "Header": "D0 CF 11 E0 A1 B1 1A E1",
+    "FileExtension": "RVT",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Visual Studio Solution User Options file",
+    "Header": "D0 CF 11 E0 A1 B1 1A E1",
+    "FileExtension": "SOU",
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "SPSS output file",
+    "Header": "D0 CF 11 E0 A1 B1 1A E1",
+    "FileExtension": "SPO",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Visio file",
+    "Header": "D0 CF 11 E0 A1 B1 1A E1",
+    "FileExtension": "VSD",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MSWorks text document",
+    "Header": "D0 CF 11 E0 A1 B1 1A E1",
+    "FileExtension": "WPS",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "WinPharoah filter file",
+    "Header": "D2 0A 00 00",
+    "FileExtension": "FTR",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "AOL history|typed URL files",
+    "Header": "D4 2A",
+    "FileExtension": "ARL|AUT",
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "WinDump (winpcap) capture file",
+    "Header": "D4 C3 B2 A1",
+    "FileExtension": null,
+    "FileClass": "Network",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows graphics metafile",
+    "Header": "D7 CD C6 9A",
+    "FileExtension": "WMF",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Word 2.0 file",
+    "Header": "DB A5 2D 00",
+    "FileExtension": "DOC",
+    "FileClass": "Word processing",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Corel color palette",
+    "Header": "DC DC",
+    "FileExtension": "CPL",
+    "FileClass": "Presentation",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "eFax file",
+    "Header": "DC FE",
+    "FileExtension": "EFX",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Amiga icon",
+    "Header": "E3 10 00 01 00 00 00 00",
+    "FileExtension": "INFO",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Win98 password file",
+    "Header": "E3 82 85 96",
+    "FileExtension": "PWL",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS OneNote note",
+    "Header": "E4 52 5C 7B 8C D8 A7 4D",
+    "FileExtension": "ONE",
+    "FileClass": "Miscellaneous",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows executable file_1",
+    "Header": "E8",
+    "FileExtension": "COM|SYS",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows executable file_2",
+    "Header": "E9",
+    "FileExtension": "COM|SYS",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows executable file_3",
+    "Header": "EB",
+    "FileExtension": "COM|SYS",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "GEM Raster file",
+    "Header": "EB 3C 90 2A",
+    "FileExtension": "IMG",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "BitLocker boot sector (Vista)",
+    "Header": "EB 52 90 2D 46 56 45 2D",
+    "FileExtension": null,
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "BitLocker boot sector (Win7)",
+    "Header": "EB 58 90 2D 46 56 45 2D",
+    "FileExtension": null,
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Word document subheader",
+    "Header": "EC A5 C1 00",
+    "FileExtension": "DOC",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "RedHat Package Manager",
+    "Header": "ED AB EE DB",
+    "FileExtension": "RPM",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "UTF-8 file",
+    "Header": "EF BB BF",
+    "FileExtension": null,
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows Script Component (UTF-8)_1",
+    "Header": "EF BB BF 3C",
+    "FileExtension": "WSF",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows Script Component (UTF-8)_2",
+    "Header": "EF BB BF 3C 3F",
+    "FileExtension": "WSC",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "YouTube Timed Text (subtitle) file",
+    "Header": "EF BB BF 3C 3F 78 6D 6C 20 76 65 72 73 69 6F 6E",
+    "FileExtension": "YTT",
+    "FileClass": "Video",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "FAT12 File Allocation Table",
+    "Header": "F0 FF FF",
+    "FileExtension": null,
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "FAT16 File Allocation Table",
+    "Header": "F8 FF FF FF",
+    "FileExtension": null,
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "FAT32 File Allocation Table_1",
+    "Header": "F8 FF FF 0F FF FF FF 0F",
+    "FileExtension": null,
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "FAT32 File Allocation Table_2",
+    "Header": "F8 FF FF 0F FF FF FF FF",
+    "FileExtension": null,
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Bitcoin-Qt blockchain block file",
+    "Header": "F9 BE B4 D9",
+    "FileExtension": "DAT",
+    "FileClass": "E-money",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "XZ archive",
+    "Header": "FD 37 7A 58 5A 00",
+    "FileExtension": "XZ",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS Publisher subheader",
+    "Header": "FD 37 7A 58 5A 00",
+    "FileExtension": "PUB",
+    "FileClass": "Word processing",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Thumbs.db subheader",
+    "Header": "FD FF FF FF",
+    "FileExtension": "DB",
+    "FileClass": "Windows",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MS Publisher file subheader",
+    "Header": "FD FF FF FF 02",
+    "FileExtension": "PUB",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Visual Studio Solution subheader",
+    "Header": "FD FF FF FF 04",
+    "FileExtension": "SUO",
+    "FileClass": "Programming",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PowerPoint presentation subheader_4",
+    "Header": "FD FF FF FF 0E 00 00 00",
+    "FileExtension": "PPT",
+    "FileClass": "Presentation",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Excel spreadsheet subheader_2",
+    "Header": "FD FF FF FF 10",
+    "FileExtension": "XLS",
+    "FileClass": "Spreadsheet",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PowerPoint presentation subheader_5",
+    "Header": "FD FF FF FF 1C 00 00 00",
+    "FileExtension": "PPT",
+    "FileClass": "Presentation",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Excel spreadsheet subheader_3",
+    "Header": "FD FF FF FF 1F",
+    "FileExtension": "XLS",
+    "FileClass": "Spreadsheet",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Developer Studio subheader",
+    "Header": "FD FF FF FF 20",
+    "FileExtension": "OPT",
+    "FileClass": "Programming",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Excel spreadsheet subheader_4",
+    "Header": "FD FF FF FF 22",
+    "FileExtension": "XLS",
+    "FileClass": "Spreadsheet",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Excel spreadsheet subheader_5",
+    "Header": "FD FF FF FF 23",
+    "FileExtension": "XLS",
+    "FileClass": "Spreadsheet",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Excel spreadsheet subheader_6",
+    "Header": "FD FF FF FF 28",
+    "FileExtension": "XLS",
+    "FileClass": "Spreadsheet",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Excel spreadsheet subheader_7",
+    "Header": "FD FF FF FF 29",
+    "FileExtension": "XLS",
+    "FileClass": "Spreadsheet",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "PowerPoint presentation subheader_6",
+    "Header": "FD FF FF FF 43 00 00 00",
+    "FileExtension": "PPT",
+    "FileClass": "Presentation",
+    "HeaderOffset": "512",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "OS X ABI Mach-O binary (32-bit)",
+    "Header": "FE ED FA CE",
+    "FileExtension": null,
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "OS X ABI Mach-O binary (64-bit)",
+    "Header": "FE ED FA CF",
+    "FileExtension": null,
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "JavaKeyStore",
+    "Header": "FE ED FE ED",
+    "FileExtension": null,
+    "FileClass": "Programming",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Symantex Ghost image file",
+    "Header": "FE EF",
+    "FileExtension": "GHO|GHS",
+    "FileClass": "Compressed archive",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "UTF-16-UCS-2 file",
+    "Header": "FE FF",
+    "FileExtension": null,
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows executable",
+    "Header": "FF",
+    "FileExtension": "SYS",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Works for Windows spreadsheet",
+    "Header": "FF 00 02 00 04 04 05 54",
+    "FileExtension": "WKS",
+    "FileClass": "Spreadsheet",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "QuickReport Report",
+    "Header": "FF 0A 00",
+    "FileExtension": "QRP",
+    "FileClass": "Financial",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows international code page",
+    "Header": "FF 46 4F 4E 54",
+    "FileExtension": "CPI",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Keyboard driver file",
+    "Header": "FF 4B 45 59 42 20 20 20",
+    "FileExtension": "SYS",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "WordPerfect text and graphics",
+    "Header": "FF 57 50 43",
+    "FileExtension": "WP|WPD|WPG|WPP|WP5|WP6",
+    "FileClass": "Word processing suite",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Generic JPEGimage fil",
+    "Header": "FF D8",
+    "FileExtension": "JPE|JPEG|JPG",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": "FF D9"
+    },
+    {
+    "FileDescription": "JPEG-EXIF-SPIFF images",
+    "Header": "FF D8 FF",
+    "FileExtension": "JFIF|JPE|JPEG|JPG",
+    "FileClass": "Picture",
+    "HeaderOffset": "0",
+    "Trailer": "FF D9"
+    },
+    {
+    "FileDescription": "MPEG-4 AAC audio",
+    "Header": "FF F1",
+    "FileExtension": "AAC",
+    "FileClass": "Audio",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MPEG-2 AAC audio",
+    "Header": "FF F9",
+    "FileExtension": "AAC",
+    "FileClass": "Audio",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "Windows Registry file",
+    "Header": "FF FE",
+    "FileExtension": "REG",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "UTF-32-UCS-2 file",
+    "Header": "FF FE",
+    "FileExtension": null,
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "UTF-32-UCS-4 file",
+    "Header": "FF FE 00 00",
+    "FileExtension": null,
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "MSinfo file",
+    "Header": "FF FE 23 00 6C 00 69 00",
+    "FileExtension": "MOF",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    },
+    {
+    "FileDescription": "DOS system driver",
+    "Header": "FF FF FF FF",
+    "FileExtension": "SYS",
+    "FileClass": "Windows",
+    "HeaderOffset": "0",
+    "Trailer": null
+    }
+]

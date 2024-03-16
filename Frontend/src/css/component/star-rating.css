@@ -1,0 +1,21 @@
+.star-rating {
+    display: inline-block;
+    font-size: 24px;
+}
+
+.star {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.star::before {
+    content: '\2606';
+    /* Empty star symbol */
+}
+
+.star.filled::before {
+    content: '\2605';
+    /* Filled star symbol */
+    color: gold;
+    /* Change the color to your preferred star color */
+}

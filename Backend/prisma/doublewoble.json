@@ -1,0 +1,119 @@
+{
+    "m2v": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "000001B3"
+            }
+        ],
+        "mime": "video/mpeg"
+    },
+    "mts": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "47401110"
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "vob": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "000001BA"
+            }
+        ],
+        "mime": "video/mpeg"
+    },
+    "8svx": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "464F524D"
+            }
+        ],
+        "mime": "video/mpeg"
+    },
+    "amb": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "524946"
+            }
+        ],
+        "mime": "audio/x-wav"
+    },
+    "opus": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4F67"
+            }
+        ],
+        "mime": "audio/x-wav"
+    },
+    "m4r": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "00001C"
+            }
+        ],
+        "mime": "audio/x-wav"
+    },
+    "snd": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "2E736E"
+            }
+        ],
+        "mime": "audio/x-wav"
+    },
+    "sou": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "80" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "sph": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "4E4953" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "vms": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "2F686F6D" 
+            }
+        ],
+        "mime": "application/octet-stream"
+    },
+    "cur": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "0000010001"
+            }
+        ],
+        "mime": "image/vnd.microsoft.icon"
+    },
+    "dng": {
+        "signs": [
+            {
+                "offset": 0,
+                "hex": "49492A"
+            }
+        ],
+        "mime": "image/vnd.microsoft.icon"
+    }
+}

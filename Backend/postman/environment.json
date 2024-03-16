@@ -1,0 +1,69 @@
+{
+	"id": "f628ff45-8846-45a5-86f0-e05259f38e50",
+	"name": "filesignature",
+	"values": [
+		{
+			"key": "port",
+			"value": "7000",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "name",
+			"value": "Slimy smelly",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "slimysmellyjellybelly@gmail.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "username",
+			"value": "slimy1234567",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "dev1234567",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "accessToken",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Im5hbWUiOiJTbGlteSBTbWVsbHkiLCJlbWFpbCI6InNsaW15c21lbGx5amVsbHliZWxseUBnbWFpbC5jb20iLCJ1c2VybmFtZSI6InNsaW15MTIzNDU2NyJ9LCJpYXQiOjE2ODczNTM4MTEsImV4cCI6MTY4NzM1NTYxMX0.bLSJhSHdkmg9e3Q3tKY9r4vkmgGximGs4ug2Uqdfd9Q",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "refreshToken",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Im5hbWUiOiJzbGlteSB2MiIsImVtYWlsIjoic2xpbXlzbWVsbHlqZWxseWJlbGx5QGdtYWlsLmNvbSIsInVzZXJuYW1lIjoic2xpbXkxMjM0NTY3In0sImlhdCI6MTY4NzQzNjk2NSwiZXhwIjoxNjg4MDQxNzY1fQ.ZZLoYg3lOwsDfU5SbANfHsRO-fN1tvCJPjKfK_3khNE",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "mimeId",
+			"value": "1",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "extensionId",
+			"value": "1",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "signatureId",
+			"value": "1",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-06-24T06:27:10.959Z",
+	"_postman_exported_using": "Postman/10.15.4"
+}

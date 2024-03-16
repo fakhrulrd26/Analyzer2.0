@@ -1,0 +1,11 @@
+Created by Mochy.
+
+Ada beberapa file yang cukup membantu supaya code pada projek lebih mudah di-manage:
+1. utils/configs.ts, ini untuk menyimpan konfigurasi/informasi dari environment dan juga memberi tahu programmer lain environment variable apa saja yang saya set.
+2. utils/clients.ts, ini untuk menyimpan koneksi entah koneksi database atau message broker.
+3. utils/asynErrorCatcher.ts, untuk catch error dari handler async yang saya buat, ini tidak dibutuhkan jika menggunakan Express v5.x, katanya versi v5.x sudah support async error
+
+Ukuran file (bytes) yang di-upload menentukan hasil analisis.
+contoh: ada signature: 'ECA5C100' dengan offset: 512, ini berarti fungsi analisa membutuhkan file dengan ukuran minimal 512+4 = 516 bytes, 4 berasal dari length('ECA5C100')/2.
+
+Tipe file yang bisa dianalisis itu biasanya file yang merupakan output dari suatu program, contoh: pdf, zip dan png. Karena program yang bersangkutan mencantumkan signature/format yang konsisten terhadap konten pada urutan index buffer tertentu yang juga konsisten, file seperti .txt, .js atau .py tidak bisa dianalisa karena konten-nya tidak memiliki signature.
